@@ -1,0 +1,18 @@
+//---2021-02-17---//
+Rename from "Driver~Prober~SENTIO_NewDriver_V2" to Driver~Prober~SENTIO_V3.set
+
+//---2020-11-12---//
+1. Add Wafer Align + Find Home after "load_wafer"
+2. Add "Find Home" in "align", it will execute after "Wafer Align"
+
+
+File "Driver~Prober~SENTIO_NewDriver_V2" (Internal test only)
+1. modify the "move_subs_pos" function, keeping the behavior is same as "move_delta"
+2. add error checking for "first_die", "next_die", "next_subsite", "light_on","light_off"
+
+------------------------------------------
+File "Driver~Prober~SENTIO_NewDriver"
+1. add the function for "load_next"
+2. add the function for "align"
+4. add the function for "needl_cleaning"
+5. add error checking for "go_home", "contact", "no_contact"
