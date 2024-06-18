@@ -1,3 +1,10 @@
+//--2024-06-18--//
+add new driver for IC-CAP
+1. add loader driver
+2. add positioner driver
+3. add calibration driver
+
+
 //---2021-02-17---//
 Rename from "Driver~Prober~SENTIO_NewDriver_V2" to Driver~Prober~SENTIO_V3.set
 
