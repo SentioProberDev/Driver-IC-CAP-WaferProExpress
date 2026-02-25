@@ -1,0 +1,4386 @@
+LINK DAT "SENTIO_SOCKET_25_02_2026" "801.001"
+{
+View in_out 0 "0.811427528295 3556 2094"
+View plot 0 "1.8 7995 6071"
+TABLE "Variable Table" "801.001"
+{
+View par_var_table 0 "V530 C0 C53 C53 C53"
+element 0 "Name" "Prober"
+element 0 "Value" ""
+element 1 "Name" "bRet"
+element 1 "Value" "1"
+element 2 "Name" "ErrorMsg"
+element 2 "Value" ""
+element 3 "Name" "_____________0"
+element 3 "Value" ""
+element 4 "Name" "hpib_interface"
+element 4 "Value" "TCPIP0::192.200.0.50::35555::SOCKET"
+element 5 "Name" "hpib_addr"
+element 5 "Value" "13"
+element 6 "Name" "hpib_timeout"
+element 6 "Value" "3600"
+element 7 "Name" "current_x"
+element 7 "Value" "89630.3"
+element 8 "Name" "current_y"
+element 8 "Value" "-299464.5"
+element 9 "Name" "___for_alignment"
+element 9 "Value" ""
+element 10 "Name" "last_temperature"
+element 10 "Value" "-1000"
+element 11 "Name" "curr_temperature"
+element 11 "Value" "-1000"
+element 12 "Name" "_____________1"
+element 12 "Value" ""
+element 13 "Name" "Reticle"
+element 13 "Value" ""
+element 14 "Name" "ProberCoordinates"
+element 14 "Value" "X-Right, Y-Up"
+element 15 "Name" "WaferSize"
+element 15 "Value" "200"
+element 16 "Name" "DieSizeUnit"
+element 16 "Value" "um"
+element 17 "Name" "DieSizeX"
+element 17 "Value" "10000"
+element 18 "Name" "DieSizeY"
+element 18 "Value" "10000"
+element 19 "Name" "DieX"
+element 19 "Value" ""
+element 20 "Name" "DieY"
+element 20 "Value" ""
+element 21 "Name" "GridShiftX"
+element 21 "Value" "-0"
+element 22 "Name" "GridShiftY"
+element 22 "Value" "-0"
+element 23 "Name" "OriginDieX"
+element 23 "Value" ""
+element 24 "Name" "OriginDieY"
+element 24 "Value" ""
+element 25 "Name" "IncludePartialDies"
+element 25 "Value" ""
+element 26 "Name" "WaferEdgeArea"
+element 26 "Value" "2"
+element 27 "Name" "StreetSizeX"
+element 27 "Value" ""
+element 28 "Name" "StreetSizeY"
+element 28 "Value" ""
+element 29 "Name" "HomeDie"
+element 29 "Value" ""
+element 30 "Name" "DieMapRef"
+element 30 "Value" ""
+element 31 "Name" "OriMkPos"
+element 31 "Value" "Marker Bottom"
+element 32 "Name" "OriMkType"
+element 32 "Value" "Notch"
+element 33 "Name" "FlatLength"
+element 33 "Value" "50"
+element 34 "Name" "FirstDieLoc"
+element 34 "Value" ""
+element 35 "Name" "DieIDNumDirection"
+element 35 "Value" ""
+element 36 "Name" "AlternateDieIDNum"
+element 36 "Value" ""
+element 37 "Name" "_____________2"
+element 37 "Value" ""
+element 38 "Name" "PBresult"
+element 38 "Value" "0,0,OK"
+element 39 "Name" "SubString"
+element 39 "Value" "0"
+element 40 "Name" "_____________3"
+element 40 "Value" ""
+element 41 "Name" "SENTIOResult"
+element 41 "Value" "0,0,4,1,0"
+element 42 "Name" "SENTIOReture1"
+element 42 "Value" "0"
+element 43 "Name" "SENTIOReture2"
+element 43 "Value" "0"
+element 44 "Name" "SENTIOReture3"
+element 44 "Value" "4"
+element 45 "Name" "SENTIOReture4"
+element 45 "Value" "1"
+element 46 "Name" "SENTIOReture5"
+element 46 "Value" "0"
+element 47 "Name" "SENTIOReture6"
+element 47 "Value" "0,0,4,1,0"
+element 48 "Name" "current_z"
+element 48 "Value" "11086.8"
+element 49 "Name" "SENTIOReture7"
+element 49 "Value" "0,0,4,1,0"
+element 50 "Name" "Subsite_index"
+element 50 "Value" "0"
+element 51 "Name" "next_load_wafer_slot"
+element 51 "Value" "1"
+element 52 "Name" "pre_aligner_angle"
+element 52 "Value" "0"
+element 53 "Name" "next_load_wafer_station"
+element 53 "Value" "cas2"
+element 54 "Name" "next_preload_wafer_slot"
+element 54 "Value" "1"
+element 55 "Name" "curRow"
+element 55 "Value" "1"
+element 56 "Name" "curColumn"
+element 56 "Value" "4"
+element 57 "Name" "targetRow"
+element 57 "Value" "0"
+element 58 "Name" "targetColumn"
+element 58 "Value" "0"
+element 59 "Name" "positioner"
+element 59 "Value" "East"
+element 60 "Name" "x_distance"
+element 60 "Value" "100"
+element 61 "Name" "y_distance"
+element 61 "Value" "200"
+element 62 "Name" "ref"
+element 62 "Value" "Zero"
+element 63 "Name" "site"
+element 63 "Value" "1"
+element 64 "Name" "z_distance"
+element 64 "Value" "-100"
+element 65 "Name" "chuck_site"
+element 65 "Value" "Wafer"
+element 66 "Name" "TotalTestDie"
+element 66 "Value" "11"
+element 67 "Name" "StepDieSeq"
+element 67 "Value" "2"
+element 68 "Name" "NumberCheckingCalDrift"
+element 68 "Value" "2"
+element 69 "Name" "calibration_drift_ret"
+element 69 "Value" "Pass"
+element 70 "Name" "switch_module"
+element 70 "Value" "Vision"
+element 71 "Name" "command_id"
+element 71 "Value" "3"
+element 72 "Name" "command_status"
+element 72 "Value" "30"
+element 73 "Name" "calibration_timeout"
+element 73 "Value" "3600"
+element 74 "Name" "stepping_timeout"
+element 74 "Value" "1200"
+element 75 "Name" "has_wafer_wallet"
+element 75 "Value" "1"
+element 76 "Name" "has_cassette1"
+element 76 "Value" "0"
+element 77 "Name" "has_cassette2"
+element 77 "Value" "0"
+element 78 "Name" "next_preAligner_wafer_angle"
+element 78 "Value" "0"
+element 79 "Name" "fully_auto_mode"
+element 79 "Value" "1"
+element 80 "Name" "set_chuck_temperature"
+element 80 "Value" "45"
+element 81 "Name" "chuck_at_probing_area"
+element 81 "Value" "0"
+element 82 "Name" "chuck_at_offaxis_area"
+element 82 "Value" "1"
+element 83 "Name" "_____________4"
+element 83 "Value" ""
+element 84 "Name" "globalRmSessId"
+element 84 "Value" " 177.0000000 "
+element 85 "Name" "instrSessnId"
+element 85 "Value" " 178.0000000 "
+element 86 "Name" "xStatusDesc"
+element 86 "Value" "The specified termination character was read."
+element 87 "Name" "statusByte"
+element 87 "Value" "0.0000"
+element 88 "Name" "xRetCnt"
+element 88 "Value" " 10.00000000 "
+element 89 "Name" ""
+element 89 "Value" ""
+}
+TABLE "GUI Table" "801.001"
+{
+element 0 "Name" "LINPUT_TABLE"
+element 0 "Value" "TL|FV=T:OR=VE:TO=FW&FH&TT&TL|<none>|#211UPPER_TABLE:#211LOWER_TABLE:#19Separator:#12ok|0|0"
+element 1 "Name" "LINPUT_TABLE.UPPER_TABLE"
+element 1 "Value" "TL|OR=HO|<none>|#14TEXT|1"
+element 2 "Name" "LINPUT_TABLE.LOWER_TABLE"
+element 2 "Value" "TL|NC=3:OR=HO|<none>|#16LABEL1:#19VARIABLE1:#16LABEL2:#19VARIABLE2:#16LABEL3:#19VARIABLE3|1"
+element 3 "Name" "LINPUT_TABLE.UPPER_TABLE.TEXT"
+element 3 "Value" "LA|CA=#3161Enter the die position\134\060\061\062relative to Home,\134\060\061\062then hit 'Move Prober'\134\060\061\062\134\060\061\062NOTE\072 Home is 0, 0\134\060\061\062\134\060\061\062NOTE\072 for no subsites, \134\060\061\062enter 0 to SUBSITE NUMBER:FG=C6|<none>|<none>|0"
+element 4 "Name" "LINPUT_TABLE.LOWER_TABLE.LABEL1"
+element 4 "Value" "LA|CA=#217COLUMN NUMBER\072|<none>|<none>|0"
+element 5 "Name" "LINPUT_TABLE.LOWER_TABLE.VARIABLE1"
+element 5 "Value" "ED|BG=C9:CO=8:VA=%#213column_number|<none>|<none>|0"
+element 6 "Name" "LINPUT_TABLE.LOWER_TABLE.LABEL2"
+element 6 "Value" "LA|CA=#214ROW NUMBER\072|<none>|<none>|0"
+element 7 "Name" "LINPUT_TABLE.LOWER_TABLE.LABEL3"
+element 7 "Value" "LA|CA=#218SUBSITE NUMBER\072|<none>|<none>|0"
+element 8 "Name" "LINPUT_TABLE.LOWER_TABLE.VARIABLE2"
+element 8 "Value" "ED|BG=C9:CO=8:VA=%#210row_number|<none>|<none>|0"
+element 9 "Name" "LINPUT_TABLE.LOWER_TABLE.VARIABLE3"
+element 9 "Value" "ED|BG=C9:CO=8:VA=%#214subsite_number|<none>|<none>|0"
+element 10 "Name" "LINPUT_TABLE.Separator"
+element 10 "Value" "SE|<none>|<none>|<none>|0"
+element 11 "Name" "LINPUT_TABLE.ok"
+element 11 "Value" "PB|CA=#211Move Prober|AC=#223step2die_by_user_action&#17Execute|<none>|0"
+element 12 "Name" ""
+element 12 "Value" ""
+}
+LINK SWEEP "See_under_ExtractOptimize" "801.001"
+{
+View draw_ds 0 "B,166,166"
+data
+{
+HYPTABLE "Edit Sweep Info"
+{
+element "Mode" "V"
+element "Sweep Type" "CON"
+}
+HYPTABLE "Edit Sweep Mode Def"
+{
+element "+ Node" ""
+element "- Node" "GROUND"
+element "Unit" ""
+element "Compliance" " 0.000 "
+}
+HYPTABLE "Edit Sweep Def"
+{
+element "Value" " 0.000 "
+}
+}
+}
+LINK XFORM "README" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ ! August, 2025
+ ! www.mpi.com.tw/ast
+ 
+ ! Driver for TS2000/TS2000-SE/TS2500/TS3000/TS3000-SE/TS3500/TS3500-SE serial probes
+ 
+ !Transform 'test_Conn2Prober' should be used first 
+ !to check the connection to the prober.
+ !The 'test_Conn2Prober' function will turn ON/OFF the Scope light
+ 
+ !Please select the command set "SENTIO" in Setup page of SENTIO software
+ 
+ !Prober Properites Options
+ !Prober Machine Coordnates          : X-Right, Y-Up
+ !Go Home Before Die Move            : No
+ !Go to Reference When Die Change    : No
+ !Wafer Map Coordates in Sync        : Yes
+ !Subsite Move Mode                  : Relative
+ 
+ ! IMPORTANT:
+ ! ===================
+ ! On the MPI-SENTIO-PC, the SENTIO GPIB interface program must be selected and enable. 
+ ! Please open the "C:\ProgramData\MPI Corporation\Sentio\config.xml" in PC of SENTIO executing
+ ! CHECK the setting is correct 
+ !
+ ! <RemoteServer Type="GPIB" Config="GPIB0:13:NI" />
+ ! The default setting of GPIB Address of Prober is "13"
+ ! After SENTIO version 3.3.0, SENTIO support setting the communication interface in Setup page.
+ ! Please also checking the setting of "Variable" in Setup Variables tab.
+ ! the "hpib_interface" is "gpib0" (if there have one gpib communication with IC-CAP/WaferProE) and "hpib_addr" is "13"
+ 
+ 
+ RETURN_VALUE 1
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "Init" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ 
+ GLOBAL_VAR  hpib_interface     ! Prober Interface, e.g. gpib0
+ GLOBAL_VAR  hpib_addr          ! Prober Address, e.g. 13
+ GLOBAL_VAR  last_temperature   ! when 'align' is possible, we need to know the delta(temp) to decide between full alignment or alignment-lite
+ GLOBAL_VAR  curr_temperature
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !---IMPORTANT NOTE:
+ !---FOR THE WPro_lookup_info() LINE, REFERRED TO IN THE PEL CODE BELOW, THE FOLLOWING ENTRY TO $WAFERPRO_HOME\config\wproBenchList.cfg WAS MADE:
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ !<SECTION Title="Bench7">
+ !        <VAR Name = "myDemo_4142_4275"></VAR>
+ !        <VAR SlotCount = "1000"></VAR>
+ !        <VAR SMUCount = "4"></VAR>
+ !        <VAR CVTisSupport = "FALSE"></VAR>
+ !        <VAR ProberCoordinates = "X-Right, Y-Up"></VAR>
+ !        <VAR GoHomeBeforeDieMove = "TRUE"></VAR>
+ !        <TABLE Title="InstrumentPilot" Format="csv">
+ !"Type",  "Name",  "Controller","Address","CmdSuffix","GROUND",      "SMU1","SMU2","SMU3","SMU4","CMHigh","CMLow","PinsCount"
+ !"Matrix","E5250A","gpib0",     "18",     "\r",       "GNDUndefined","1",   "2",   "3",   "4",   "9",     "10",   "48"
+ !"Prober","PA200", "gpib0",     "27",     "\r",       "",            "",    "",    "",    "",    "",      "",     ""
+ !"Chuck", "Manual","None",      "None",   "\r",       "",            "",    "",    "",    "",    "",      "",     ""
+ !        </TABLE>
+ !</SECTION>
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ IF Debug >= 2 THEN GET_STRING "Performing SENTIO/Init   [OK]", dummy
+ 
+ dummy = WPro_lookup_info("Hardware", "Prober[Controller]", "hpib_interface")
+ dummy = WPro_lookup_info("Hardware", "Prober[Address]",    "hpib_addr")
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "start" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ IF Debug >= 2 THEN GET_STRING "Performing SENTIO/start   [OK]", dummy
+ 
+ GET_STRING "Manually,
+ -> load wafer,
+ -> align wafer,
+ -> position a die,
+ -> set Home/Reference position
+ -> verify the contact (Z-positioning),
+ -> and switch off the light [OK]", dummy
+ 
+ ICCAP_FUNC("check_enable_loader", "Execute")
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "set_reference" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ !-- [set_reference]
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ bRet = 0
+ ! Set current as Home position
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "set_chuck_site_pos")
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "get_wafer_map" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ !-- [get_wafer_map]
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ 
+ GLOBAL_VAR  hpib_interface  ! Prober Interface, e.g. gpib0
+ GLOBAL_VAR  hpib_addr       ! Prober Address, e.g. 13
+ 
+ !Instrument Variables
+ GLOBAL_VAR PBresult           ! used to save returned strings
+ GLOBAL_VAR SubString          ! aux variable when prober answer is cut into sub-strings
+ 
+ GLOBAL_VAR Reticle            ! "myReticle",
+ GLOBAL_VAR ProberCoordinates  ! "X-Right, Y-Up", // Prober Wafer space coordinates, "X-Right, Y-Up"/"X-Right, Y-Down"/"X-Left, Y-Up"/"X-Left, Y-Down"
+ GLOBAL_VAR WaferSize          ! 300.0,           // in (mm)
+ GLOBAL_VAR DieSizeUnit        ! "um",            // "um"/"mm"
+ GLOBAL_VAR DieSizeX           ! 20000.0,         //
+ GLOBAL_VAR DieSizeY           ! 30000.0,         //
+ GLOBAL_VAR GridShiftX         ! 0.0,             // shift (um) from the wafer-center crossing line (X-Right (on screen coordinates))
+ GLOBAL_VAR GridShiftY         ! 0.0,             // shift (um) from the wafer-center crossing line (X-Down  (on screen coordinates))
+ GLOBAL_VAR OriginDieX         ! 0,               // values in the 'universal' coordinates, which determine X0-Y0 location.
+ GLOBAL_VAR OriginDieY         ! 0,               //     the initial 0/0 location is Top-Left (! screen coordinates)
+ GLOBAL_VAR IncludePartialDies ! "No",            // "No" in Velox.
+ GLOBAL_VAR WaferEdgeArea      ! 0.0,             // need to be set to determine partial/full dies in UnvWaferMap
+ GLOBAL_VAR StreetSizeX        ! 0.0,             // not used in Velox, (no effect on prober control)
+ GLOBAL_VAR StreetSizeY        ! 0.0,             // not used in Velox, (no effect on prober control)
+ GLOBAL_VAR HomeDie            ! "X-1-Y2",        // in 'ProberCoordinates'
+ GLOBAL_VAR DieMapRef          ! "TopLeft",       // "TopLeft"/"TopRight"/"BottomLeft"/"BottomRight"/"Center"/"Manual"
+ GLOBAL_VAR OriMkPos           ! "Marker Bottom", // "Marker Bottom"/"Marker Right"/"Marker Top"/"Marker Left"
+ GLOBAL_VAR OriMkType          ! "Notch",         // "Notch"/"Flat"
+ GLOBAL_VAR FlatLength         ! 120.0,
+ GLOBAL_VAR FirstDieLoc        ! "Upper Left",    // corresponds to Router setting in Velox, "Upper Left"/"Upper Right"/"Lower Left"/"Lower Right"
+ GLOBAL_VAR DieIDNumDirection  ! "Horizontal",    // corresponds to Router setting in Velox, "Horizontal"/"Vertical"
+ GLOBAL_VAR AlternateDieIDNum  ! "Yes",           // corresponds to Router setting in Velox
+ !GLOBAL_VAR IsRectangle       ! false            // true if rectangle, false if circular wafer
+ GLOBAL_VAR GridShiftX         ! "GridShiftX",    // WaferMap Offect X
+ GLOBAL_VAR GridShiftY         ! "GridShiftY",    // WaferMap Offect Y
+ 
+ GLOBAL_VAR  SENTIOReture1
+ GLOBAL_VAR  SENTIOReture2
+ GLOBAL_VAR  SENTIOReture3
+ GLOBAL_VAR  SENTIOReture4
+ GLOBAL_VAR  SENTIOReture5
+ GLOBAL_VAR  SENTIOReture6
+ GLOBAL_VAR  SENTIOReture7
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !---start of the program
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:get_diameter")   
+ WaferSize = VAL$(SENTIOReture3) !the unit is mm
+ print "WaferSize:"; WaferSize
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:get_index_size")  
+ DieSizeUnit = "um"
+ DieSizeX = VAL$(SENTIOReture3)
+ DieSizeY = VAL$(SENTIOReture4)
+ print "DieSizeX:"; DieSizeX
+ print "DieSizeY:"; DieSizeY
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:get_flat_params")
+ flatAngle_ = VAL(SENTIOReture3)  
+ FlatLength = VAL$(SENTIOReture4/1000) ! unit: mm
+ print "FlatLength:"; FlatLength
+ 
+    OriMkPos = "Marker Bottom"
+    IF flatAngle_ == 0 THEN
+      OriMkPos = "Marker Bottom"
+    ELSE IF flatAngle_ == 90 THEN
+      OriMkPos = "Marker Left"
+    ELSE IF flatAngle_ == 180 THEN
+      OriMkPos = "Marker Top"
+    ELSE IF flatAngle_ == 270 THEN
+      OriMkPos = "Marker Right"
+    END IF
+ 
+    GridShiftX = 0.0
+    GridShiftY = 0.0
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:get_grid_params")
+ WaferEdgeArea   = VAL$(VAL(SENTIOReture7) // 1000)
+ GridShiftX      = VAL$(-1 * VAL(SENTIOReture5))
+ GridShiftY      = VAL$(-1 * VAL(SENTIOReture6))
+ print "WaferEdgeArea:"; WaferEdgeArea
+ print "GridShiftX:"; GridShiftX
+ print "GridShiftY:"; GridShiftY
+ !-----Get the ProberCoordinates ----
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:get_axis_orient")
+ AxisOrient = VAL$(SENTIOReture3)
+ print "AxisOrient:"; AxisOrient
+ 
+    ProberCoordinates = "X-Right, Y-Up"
+    IF VAL$(SENTIOReture3) == "DR" THEN
+      ProberCoordinates = "X-Right, Y-Down"
+    ELSE IF VAL$(SENTIOReture3) == "DL" THEN
+      ProberCoordinates = "X-Left, Y-Down"
+    ELSE IF VAL$(SENTIOReture3) == "UR" THEN
+      ProberCoordinates = "X-Right, Y-Up"
+    ELSE IF VAL$(SENTIOReture3) == "UL" THEN
+      ProberCoordinates = "X-Left, Y-Up"
+    END IF
+ 
+ print ProberCoordinates
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "set_wafer_map" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ !-- [set_wafer_map]
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ 
+ GLOBAL_VAR  hpib_interface  ! Prober Interface, e.g. gpib0
+ GLOBAL_VAR  hpib_addr       ! Prober Address, e.g. 13
+ 
+ !Instrument Variables
+ GLOBAL_VAR PBresult           ! used to save returned strings
+ GLOBAL_VAR SubString          ! aux variable when prober answer is cut into sub-strings
+ 
+ GLOBAL_VAR Reticle            ! "myReticle",
+ GLOBAL_VAR ProberCoordinates  ! "X-Right, Y-Up", // Prober Wafer space coordinates, "X-Right, Y-Up"/"X-Right, Y-Down"/"X-Left, Y-Up"/"X-Left, Y-Down"
+ GLOBAL_VAR WaferSize          ! 300.0,           // in (mm)
+ GLOBAL_VAR DieSizeUnit        ! "um",            // "um"/"mm"
+ GLOBAL_VAR DieSizeX           ! 20000.0,         //
+ GLOBAL_VAR DieSizeY           ! 30000.0,         //
+ GLOBAL_VAR GridShiftX         ! 0.0,             // shift (um) from the wafer-center crossing line (X-Right (on screen coordinates))
+ GLOBAL_VAR GridShiftY         ! 0.0,             // shift (um) from the wafer-center crossing line (X-Down  (on screen coordinates))
+ GLOBAL_VAR OriginDieX         ! 0,               // values in the 'universal' coordinates, which determine X0-Y0 location.
+ GLOBAL_VAR OriginDieY         ! 0,               //     the initial 0/0 location is Top-Left (! screen coordinates)
+ GLOBAL_VAR IncludePartialDies ! "No",            // "No" in Velox.
+ GLOBAL_VAR WaferEdgeArea      ! 0.0,             // need to be set to determine partial/full dies in UnvWaferMap
+ GLOBAL_VAR StreetSizeX        ! 0.0,             // not used in Velox, (no effect on prober control)
+ GLOBAL_VAR StreetSizeY        ! 0.0,             // not used in Velox, (no effect on prober control)
+ GLOBAL_VAR HomeDie            ! "X-1-Y2",        // in 'ProberCoordinates'
+ GLOBAL_VAR DieMapRef          ! "TopLeft",       // "TopLeft"/"TopRight"/"BottomLeft"/"BottomRight"/"Center"/"Manual"
+ GLOBAL_VAR OriMkPos           ! "Marker Bottom", // "Marker Bottom"/"Marker Right"/"Marker Top"/"Marker Left"
+ GLOBAL_VAR OriMkType          ! "Notch",         // "Notch"/"Flat"
+ GLOBAL_VAR FlatLength         ! 120.0,
+ GLOBAL_VAR FirstDieLoc        ! "Upper Left",    // corresponds to Router setting in Velox, "Upper Left"/"Upper Right"/"Lower Left"/"Lower Right"
+ GLOBAL_VAR DieIDNumDirection  ! "Horizontal",    // corresponds to Router setting in Velox, "Horizontal"/"Vertical"
+ GLOBAL_VAR AlternateDieIDNum  ! "Yes",           // corresponds to Router setting in Velox
+ !GLOBAL_VAR IsRectangle        ! false            // true if rectangle, false if circular wafer
+ 
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !---start of the program
+ 
+ bUseVISASocket = 0
+ IF strpos(VAL$(hpib_interface),"::SOCKET") >= 1 THEN
+   ! Send and receive command for a VISA TCPIP SOCKET resource.
+   bUseVISASocket = 1
+ ENDIF
+ 
+ ! DieSizeUnit == "um"
+ dieSizeX_ = val(DieSizeX)  ! [um]
+ dieSizeY_ = val(DieSizeY)  ! [um]
+ IF VAL$(DieSizeUnit) == "mm" THEN
+   dieSizeX_ = val(DieSizeX)*1000  ! [um]
+   dieSizeY_ = val(DieSizeY)*1000  ! [um]
+ END IF
+ offsetX_ = 0.0
+ offsetY_ = 0.0
+ 
+ flatAngle_ = 0
+ IF VAL$(OriMkPos) == "Marker Bottom" THEN
+   flatAngle_ = 0
+ ELSE IF VAL$(OriMkPos) == "Marker Right" THEN
+   flatAngle_ = 90
+ ELSE IF VAL$(OriMkPos) == "Marker Top" THEN
+   flatAngle_ = 180
+ ELSE IF VAL$(OriMkPos) == "Marker Left" THEN
+   flatAngle_ = 270
+ END IF
+ 
+ ! SENTIO Wafer setting
+ ! "map:set_diameter "& VAL$(WaferSize)
+ ! "map:set_index_size "& VAL$(dieSizeX_) & "," & VAL$(dieSizeY_)
+ ! "map:set_orient_marker Flat" & "," & VAL$(flatAngle_) & "," &  VAL$(FlatLength)
+ ! "map:set_grid_params" & VAL$(dieSizeX_) & "," & VAL$(dieSizeY_) & "," & VAL$(offsetX_) & "," & VAL$(offsetY_)& "," & VAL$(WaferEdgeArea)
+ 
+ !--------Wafer Size----------
+ !Set the wafer map parameters.
+ !set_wafer_params_cmd = "SetWaferMapParams " & VAL$(WaferSize) & " " & VAL$(dieSizeX_) & " " & VAL$(dieSizeY_) & " " & VAL$(FlatLength) & " " & VAL$(flatAngle_) & " " & VAL$(offsetX_) & " " & VAL$(offsetY_) & " " & VAL$(WaferEdgeArea)
+ wafer=CUTSTR(VAL$(WaferSize), SubString, ".")
+ print SubString[0]
+ set_wafer_params_cmd = "map:set_diameter "& VAL$(SubString[0])
+ ! format : int
+  
+ IF bUseVISASocket == 0 THEN
+   !---communicate with the prober
+   hpib_num = HPIB_open(VAL$(hpib_interface))
+   IF VAL$(hpib_num) == VAL$("-1") THEN
+     ! Error failed to open a GPIB interface connection. Return with ready state error. 
+     bRet = 0
+     ErrorMsg = "Failed to open a connection to the GPIB interface: " & VAL$(hpib_interface)
+     RETURN_VALUE bRet
+   ENDIF
+ ENDIF
+ 
+ !Set the wafer map parameters.
+ PRINT "-------------------------"
+ PRINT "<<<" & set_wafer_params_cmd
+ IF bUseVISASocket == 0 THEN
+  status = HPIB_write(hpib_num, hpib_addr, VAL$(set_wafer_params_cmd))
+  status = HPIB_timeout(hpib_num, 100)
+  status = HPIB_read(hpib_num, hpib_addr, 200, "A", "PBresult")
+ ELSE
+  ! Send command and receive result for a VISA TCPIP SOCKET resource.
+  ret = evaluate_transform("send_receive_by_VISA_socket", VAL$(hpib_interface), set_wafer_params_cmd, 200, 100)
+  IF ret[0] == 1 THEN
+    status = 0
+  ELSE
+    status = -1
+  END IF
+ ENDIF
+ 
+ !-------Index Size---------
+ set_wafer_params_cmd = "map:set_index_size "& VAL$(dieSizeX_) & "," & VAL$(dieSizeY_)
+ PRINT "-------------------------"
+ PRINT "<<<" & set_wafer_params_cmd
+ 
+ !Set the wafer map parameters.
+ PRINT "<<<" & set_wafer_params_cmd
+ IF bUseVISASocket == 0 THEN
+   status = HPIB_write(hpib_num, hpib_addr, VAL$(set_wafer_params_cmd))
+   status = HPIB_timeout(hpib_num, 100)
+   status = HPIB_read(hpib_num, hpib_addr, 200, "A", "PBresult")
+ ELSE
+  ! Send command and receive result for a VISA TCPIP SOCKET resource.
+  ret = evaluate_transform("send_receive_by_VISA_socket", VAL$(hpib_interface), set_wafer_params_cmd, 200, 100)
+  IF ret[0] == 1 THEN
+    status = 0
+  ELSE
+    status = -1
+  END IF
+ ENDIF
+ 
+ !------------Flat / Notch---------
+ wafer=CUTSTR(VAL$(FlatLength), SubString, ".")
+ print "FlatAngle:"; flatAngle_
+ print "FlatValue:"; SubString[0]
+ 
+ IF (SubString[0] >= 10) THEN
+     ErrorMsg = "The number of Flat must be < 10 mm."
+     x = system$("echo 'Error: "&VAL$(ErrorMsg)&"' >&2")
+     SubString[0] = 10
+ END IF
+ 
+ set_wafer_params_cmd = "map:set_orient_marker Flat" & "," & VAL$(flatAngle_) & "," &  VAL$(VAL(SubString[0])*1000)
+ 
+ !Set the wafer map parameters.
+ PRINT "<<<" & set_wafer_params_cmd
+ IF bUseVISASocket == 0 THEN
+   status = HPIB_write(hpib_num, hpib_addr, VAL$(set_wafer_params_cmd))
+   status = HPIB_timeout(hpib_num, 100)
+   status = HPIB_read(hpib_num, hpib_addr, 200, "A", "PBresult")
+ ELSE
+  ! Send command and receive result for a VISA TCPIP SOCKET resource.
+  ret = evaluate_transform("send_receive_by_VISA_socket", VAL$(hpib_interface), set_wafer_params_cmd, 200, 100)
+  IF ret[0] == 1 THEN
+    status = 0
+  ELSE
+    status = -1
+  END IF
+ ENDIF
+ 
+ !-------Grid Size------------------
+ 
+ set_wafer_params_cmd = "map:set_grid_params " & VAL$(dieSizeX_) & "," & VAL$(dieSizeY_) & "," & VAL$(offsetX_) & "," & VAL$(offsetY_)
+ 
+ !Set the wafer map parameters.
+ PRINT "<<<" & set_wafer_params_cmd
+ IF bUseVISASocket == 0 THEN
+   status = HPIB_write(hpib_num, hpib_addr, VAL$(set_wafer_params_cmd))
+   status = HPIB_timeout(hpib_num, 100)
+   status = HPIB_read(hpib_num, hpib_addr, 200, "A", "PBresult")
+ ELSE
+  ! Send command and receive result for a VISA TCPIP SOCKET resource.
+  ret = evaluate_transform("send_receive_by_VISA_socket", VAL$(hpib_interface), set_wafer_params_cmd, 200, 100)
+  IF ret[0] == 1 THEN
+    status = 0
+  ELSE
+    status = -1
+  END IF
+ ENDIF
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+ orientation_ = "UR"
+ IF VAL$(ProberCoordinates) == "X-Right, Y-Down" THEN
+ !  orientation_ = 1
+     orientation_ = "DR"
+ ELSE IF VAL$(ProberCoordinates) == "X-Left, Y-Down" THEN
+ !  orientation_ = 2
+     orientation_ = "DL"
+ ELSE IF VAL$(ProberCoordinates) == "X-Right, Y-Up" THEN
+ !  orientation_ = 3
+     orientation_ = "UR"
+ ELSE IF VAL$(ProberCoordinates) == "X-Left, Y-Up" THEN
+ !  orientation_ = 4
+     orientation_ = "UL"
+ END IF
+ 
+ 
+ set_wafer_orientation_cmd = "map:set_axis_orient " & orientation_
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ !---communicate with the prober
+ PRINT "<<<" & set_wafer_orientation_cmd
+ 
+ !Set the wafer map orientation.
+ IF bUseVISASocket == 0 THEN
+   status = HPIB_write(hpib_num, hpib_addr, VAL$(set_wafer_orientation_cmd))
+   status = HPIB_timeout(hpib_num, 100)
+   status = HPIB_read(hpib_num, hpib_addr, 200, "A", "PBresult")
+ ELSE
+  ! Send command and receive result for a VISA TCPIP SOCKET resource.
+  ret = evaluate_transform("send_receive_by_VISA_socket", VAL$(hpib_interface), set_wafer_orientation_cmd, 200, 100)
+  IF ret[0] == 1 THEN
+    status = 0
+  ELSE
+    status = -1
+  END IF
+ ENDIF
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+ IF bUseVISASocket == 0 THEN
+   dummy  = HPIB_close(hpib_num)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "load_next" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ !-----------------------------------------------------------
+ ! Condition with 'Load next command'
+ ! 1. System has 'Wafer align pattern'
+ ! 2. System has 'Home pattern'
+ !-----------------------------------------------------------
+ 
+ UPDATE_EXPLICIT
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ GLOBAL_VAR  Debug   !SetupVariable
+ GLOBAL_VAR  next_load_wafer_slot   !SetupVariable
+ GLOBAL_VAR  has_wafer_wallet    !SetupVariable
+ GLOBAL_VAR  has_cassette1    !SetupVariable
+ GLOBAL_VAR  has_cassette2    !SetupVariable
+ GLOBAL_VAR  next_preAligner_wafer_angle    !SetupVariable
+ GLOBAL_VAR  fully_auto_mode    !SetupVariable
+ GLOBAL_VAR  chuck_at_probing_area
+ GLOBAL_VAR  chuck_at_offaxis_area
+ 
+ GLOBAL_VAR  chuck_at_probing_area
+ GLOBAL_VAR  chuck_at_offaxis_area
+ 
+ 
+ IF Debug >= 1 THEN PRINT ">>> Testing with Load Next Wafer "
+ PRINT ">>>Load_NEXT_WAFER::::" & VAL$(next_load_wafer_slot)
+ 
+ ICCAP_FUNC("check_enable_loader", "Execute")
+ 
+ IF  fully_auto_mode == 0 THEN 
+     PRINT ">>> Semi Auto Mode "
+     RETURN_VALUE 1
+ ENDIF
+ 
+ bRet = 1
+ ErrorMsg = ""
+ has_wafer_wallet = 0
+ has_cassette1 = 0
+ has_cassette2 = 0
+ 
+ !---------Checking the System config-------------
+ ! -- Checking system has station WW/Cassette1/Cassette2
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:has_station ww")
+ 
+ IF VAL$(SENTIOReture3) == "1" THEN
+     IF Debug >= 1 THEN PRINT ">>> System has wafer wellect "
+     has_wafer_wallet = 1
+ ELSE
+     has_wafer_wallet = 0
+ ENDIF
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:has_station cas1")
+ 
+ IF VAL$(SENTIOReture3) == "1" THEN
+     ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:has_cassette cas1")
+     IF VAL$(SENTIOReture3) == "1" THEN
+         IF Debug >= 1 THEN PRINT ">>> System has cassette 1"
+             has_cassette1 = 1
+     endif
+ ELSE
+     has_cassette1 = 0
+ ENDIF
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:has_station cas2")
+ 
+ IF VAL$(SENTIOReture3) == "1" THEN
+     ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:has_cassette cas2")
+     IF VAL$(SENTIOReture3) == "1" THEN
+         IF Debug >= 1 THEN PRINT ">>> System has cassette 2"
+             has_cassette2 = 1
+     endif
+ ELSE
+     has_cassette2 = 0
+ ENDIF
+ 
+ IF Debug >= 1 THEN
+     print "System Config WW:"; val$(has_wafer_wallet)
+     print "System Config Cassette1:"; val$(has_cassette1)
+     print "System Config Cassette2:"; val$(has_cassette2)
+ ENDIF
+ 
+ 
+ IF VAL$(has_wafer_wallet) == "0" AND VAL$(has_cassette1) == "0" AND VAL$(has_cassette2) == "0" THEN
+     PRINT ">>> No, Wafer Wallet, Cassette1, Cassette2 "
+     RETURN_VALUE 1
+ ENDIF
+ 
+ !------------
+ LINPUT "Enter Load Wafer Slot", next_load_wafer_slot, next_load_wafer_slot
+ PRINT ">>>Load_NEXT_WAFER::::" & VAL$(next_load_wafer_slot)
+ 
+ next_load_wafer_slot   =VAL(VAL$(next_load_wafer_slot))
+ 
+ !--Checking the wafer existing on Chuck--
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:scan_station chuck")
+ 
+ IF VAL$(SENTIOReture3) == "0" THEN ! No Wafer on Chuck
+     IF Debug >= 1 THEN PRINT ">>> No wafer on Chuck "
+ ELSE
+     ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:unload_wafer")
+ ENDIF
+ 
+ !--Checking the wafer existing on Prealign--
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:scan_station prealigner")
+ 
+ IF VAL$(SENTIOReture3) == "0" THEN ! No Wafer
+     IF Debug >= 1 THEN PRINT ">>> No wafer on Prealigner "
+ ELSE
+     ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:unload_wafer")
+ ENDIF
+ 
+ 
+ !--PreAligner angle = 0--!
+ preload_wafer_slot = 0
+ 
+ !--Load next
+ IF VAL$(has_wafer_wallet) == "1" THEN
+     hpib_cmd     = "loader:load_wafer ww,"&VAL$(next_load_wafer_slot)&","&VAL$(next_preAligner_wafer_angle)
+ ELSE IF VAL$(has_cassette1) == "1" THEN
+     hpib_cmd     = "loader:load_wafer cas1,"&VAL$(next_load_wafer_slot)&","&VAL$(next_preAligner_wafer_angle)
+ ELSE IF VAL$(has_cassette2) == "1" THEN
+     hpib_cmd     = "loader:load_wafer cas2"&","&VAL$(next_load_wafer_slot)&","&VAL$(next_preAligner_wafer_angle)
+ ENDIF
+ 
+ ICCAP_FUNC("do_SENTIO_cmd","Execute",hpib_cmd)
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+   RETURN bRet
+ ENDIF
+ 
+ 
+ !---Checking chuck Position--
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "get_chuck_position_hint")
+ PRINT ">>> Position:";VAL$(SENTIOReture3)
+ 
+ chuckAtProbing = 0
+ chuckAtOffaxis = 0
+ IF VAL$(SENTIOReture3) == "OffAxisCamera" THEN
+   chuck_at_probing_area = 0
+   chuck_at_offaxis_area = 1
+ ENDIF
+ 
+ IF VAL$(SENTIOReture3) == "Probing" THEN
+   chuck_at_probing_area = 1
+   chuck_at_offaxis_area = 0
+ ENDIF
+ 
+ 
+ ! -- Chuck at probing - do the GoToFocus
+ IF VAL$(chuck_at_probing_area) == "1" THEN
+     print "Go To Focus"
+     ICCAP_FUNC("go_to_focus", "Execute")
+     IF VAL$(bRet) == "0" THEN
+         ErrorMsg = VAL$(SENTIOReture3)
+         print "Go To Focus: ", ErrorMsg
+     ENDIF
+ ENDIF
+ 
+ ! After loading new wafer, execute auto focusn
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "vis:auto_focus")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ ! After loading new wafer, execute wafer align
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "vis:align_wafer")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+   return bRet
+ ENDIF
+ 
+ ! After wafer align finish, start execute "Find_Home"
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "vis:find_home")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+   return bRet
+ ENDIF
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "align" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ bRet = 0
+ 
+ ! execute auto focusn
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "vis:auto_focus")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+   RETURN_VALUE bRet
+ ENDIF
+ 
+ !---do wafer align with current align pattern
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "vis:align_wafer")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+   RETURN_VALUE bRet
+ ENDIF
+ 
+ !--- After wafer align, execute "find_home" function--!
+ !--- System may not have "Home Pattern", it can be skip the error message--!
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "vis:find_home")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+   RETURN_VALUE bRet
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "go_home" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ home_die_x = 0
+ home_die_y = 0
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "get_chuck_position_hint")   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture3) == "FrontLoad" OR VAL$(SENTIOReture3) == "SideLoad" OR VAL$(SENTIOReture3) == "ChuckCamera"THEN
+     IF Debug >= 1 THEN PRINT "Chuck is at " & VAL$(SENTIOReture3)
+     RETURN_VALUE bRet
+ ENDIF
+ 
+ !---no contact
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "move_chuck_separation")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ 
+ !---move to 0 0 (Home) position
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "move_chuck_home")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ !----Get Home Die Coordinate---
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:get_home_die")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ home_die_x = VAL$(SENTIOReture3)
+ home_die_y = VAL$(SENTIOReture4)
+ PRINT ">>>Home Die X:" & VAL$(home_die_x)
+ PRINT ">>>Home Die Y:" & VAL$(home_die_y)
+ 
+ !--- step to home die---
+ hpib_cmd="map:step_die " &VAL$(home_die_x) & "," &VAL$(home_die_y)
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "contact" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "get_chuck_position_hint")   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture3) == "FrontLoad" OR VAL$(SENTIOReture3) == "SideLoad" OR VAL$(SENTIOReture3) == "ChuckCamera" OR VAL$(SENTIOReture3) == "OffAxisCamera"THEN
+     IF Debug >= 1 THEN PRINT "Chuck is at " & VAL$(SENTIOReture3)
+     RETURN_VALUE bRet
+ ENDIF
+ 
+ !--- contact
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "move_chuck_contact")   !call macro and anticipate its GET_STRING
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "no_contact" "801.001"
+{
+View block_edit 0 "0,0"
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "get_chuck_position_hint")   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture3) == "FrontLoad" OR VAL$(SENTIOReture3) == "SideLoad" OR VAL$(SENTIOReture3) == "ChuckCamera" OR VAL$(SENTIOReture3) == "OffAxisCamera" THEN
+     IF Debug >= 1 THEN PRINT "Chuck is at " & VAL$(SENTIOReture3)
+     RETURN_VALUE bRet
+ ENDIF
+ 
+ !--- separate
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "move_chuck_separation")   !call macro and anticipate its GET_STRING
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "needle_cleaning" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "aux:cleaning:start")   !call macro and anticipate its GET_STRING
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_index" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  curColumn
+ GLOBAL_VAR  curRow
+ GLOBAL_VAR  targetRow
+ GLOBAL_VAR  targetColumn
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ Debug = 1
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ !---this is answered by the calling ProberMgr/move_index
+ GET_STRING "Enter delta_index_x", delta_x
+ GET_STRING "Enter delta_index_y", delta_y
+ 
+ 
+ ICCAP_FUNC("no_contact", "Execute")
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:die:get_current_index")   !call macro and anticipate its GET_STRING
+ 
+ curColumn = VAL$(SENTIOReture4)
+ curRow = VAL$(SENTIOReture5)
+ 
+ IF Debug >= 1 THEN 
+     print "Current Column:"; val(curColumn)
+     print "Current Row:"; val(curRow)
+ END IF
+ 
+ 
+ ICCAP_FUNC("get_axis_orient", "Execute")
+ 
+ IF Debug >= 1 THEN 
+     print "Probing Wafer MoveX:"; delta_x
+     print "Probing Wafer MoveY:"; delta_y
+ END IF
+ 
+ l_delta_x =  delta_x
+ l_delta_y =  delta_y
+ 
+ !---Conver back to 'UR' coordinate---!
+ IF VAL$(SENTIOReture3) == "DL" THEN
+     l_delta_x = -1 * val(delta_x)
+     l_delta_y = -1 * val(delta_y)
+ ELSE IF  VAL$(SENTIOReture3) == "DR" THEN
+     l_delta_x =      val(delta_x)
+     l_delta_y = -1 * val(delta_y)
+ ELSE IF  VAL$(SENTIOReture3) == "UL" THEN
+     l_delta_x = -1 * val(delta_x)
+     l_delta_y =      val(delta_y)
+ ELSE IF  VAL$(SENTIOReture3) == "UR" THEN
+     l_delta_x =  delta_x
+     l_delta_y =  delta_y
+ END IF
+ 
+ 
+ IF Debug >= 1 THEN
+     print "Orient:"; SENTIOReture3
+     print "Chuck MoveX:" & VAL$(-1*VAL(l_delta_x))
+     print "Chuck MoveY:" & VAL$(-1*VAL(l_delta_y))
+ END IF
+ 
+ targetColumn = 0
+ targetRow = 0
+ 
+ targetColumn = val(delta_x) + val(curColumn)
+ targetRow = val(delta_y) + val(curRow)
+ 
+ IF Debug >= 1 THEN 
+     print "Target Column:"; val(targetColumn)
+     print "Target Row:"; val(targetRow)
+ END IF
+ 
+ hpib_cmd="map:step_die " &VAL$(targetColumn) & "," &VAL$(targetRow)
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_delta" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ !---this is answered by the calling ProberMgr/move_delta
+ GET_STRING "Enter delta_x [um]", delta_x
+ GET_STRING "Enter delta_y [um]", delta_y
+ 
+ 
+ ICCAP_FUNC("no_contact", "Execute")
+ 
+ 
+ ICCAP_FUNC("get_axis_orient", "Execute")
+ 
+ IF Debug >= 1 THEN
+     print "Probing Wafer MoveX:"; delta_x
+     print "Probing Wafer MoveY:"; delta_y
+ END IF
+ 
+ l_delta_x =  delta_x
+ l_delta_y =  delta_y
+ 
+ IF VAL$(SENTIOReture3) == "DL" THEN
+     l_delta_x = -1 * val(delta_x)
+     l_delta_y = -1 * val(delta_y)
+ ELSE IF  VAL$(SENTIOReture3) == "DR" THEN
+     l_delta_x =      val(delta_x)
+     l_delta_y = -1 * val(delta_y)
+ ELSE IF  VAL$(SENTIOReture3) == "UL" THEN
+     l_delta_x = -1 * val(delta_x)
+     l_delta_y =      val(delta_y)
+ ELSE IF  VAL$(SENTIOReture3) == "UR" THEN
+     l_delta_x =  delta_x
+     l_delta_y =  delta_y
+ END IF
+ 
+ IF Debug >= 1 THEN
+     print "Orient:"; SENTIOReture3
+     print "Chuck MoveX:" & VAL$(-1*VAL(l_delta_x))
+     print "Chuck MoveY:" & VAL$(-1*VAL(l_delta_y))
+ END IF
+ 
+ ! convert a number into the format +xxx or -xxx
+ ! cut-off digits after the comma and fill up with '0' between sign and resulting number
+ delta_x = -1*VAL(l_delta_x)
+ delta_y = -1*VAL(l_delta_y)
+ 
+ delta_x = VAL$(delta_x, "%.0f")
+ delta_y = VAL$(delta_y, "%.0f")
+ 
+ IF Debug >= 1 THEN PRINT "  >delta_x="; delta_x, "delta_y="; delta_y
+ 
+ !----- move relative
+ 
+ !hpib_cmd="move_chuck_xy " & "Relative" & "," &VAL$(delta_x) & "," &VAL$(delta_y)
+ ! Current seems to now be the same as Relative, meaning use current position.
+ hpib_cmd="move_chuck_xy " & "Current" & "," &VAL$(delta_x) & "," &VAL$(delta_y)
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_subs_pos" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!
+ GET_STRING "Enter delta_x [um]", delta_x
+ GET_STRING "Enter delta_y [um]", delta_y
+ 
+ ICCAP_FUNC("no_contact", "Execute")
+ 
+ !---Get Current Die info--!
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:die:get_current_index")   !call macro and anticipate its GET_STRING
+ 
+ curColumn = VAL$(SENTIOReture4)
+ curRow = VAL$(SENTIOReture5)
+ 
+ IF Debug >= 1 THEN
+     print "Current Row:"; curRow
+     print "Current Column:"; curColumn
+ END IF
+ 
+ !---Get orient --!
+ ICCAP_FUNC("get_axis_orient", "Execute")
+ 
+ IF Debug >= 1 THEN
+     print "Probing Wafer MoveX:"; delta_x
+     print "Probing Wafer MoveY:"; delta_y
+ END IF
+ 
+ l_delta_x =  delta_x
+ l_delta_y =  delta_y
+ 
+ IF VAL$(SENTIOReture3) == "DL" THEN
+     l_delta_x = -1 * val(delta_x)
+     l_delta_y = -1 * val(delta_y)
+ ELSE IF  VAL$(SENTIOReture3) == "DR" THEN
+     l_delta_x =      val(delta_x)
+     l_delta_y = -1 * val(delta_y)
+ ELSE IF  VAL$(SENTIOReture3) == "UL" THEN
+     l_delta_x = -1 * val(delta_x)
+     l_delta_y =      val(delta_y)
+ ELSE IF  VAL$(SENTIOReture3) == "UR" THEN
+     l_delta_x =  delta_x
+     l_delta_y =  delta_y
+ END IF
+ 
+ delta_x = -1*VAL(l_delta_x)
+ delta_y = -1*VAL(l_delta_y)
+ 
+ delta_x = VAL$(delta_x, "%.0f")
+ delta_y = VAL$(delta_y, "%.0f")
+ IF Debug >= 1 THEN
+     print "Orient:"; SENTIOReture3
+     print "Chuck MoveX:" & VAL$(-1*VAL(l_delta_x))
+     print "Chuck MoveY:" & VAL$(-1*VAL(l_delta_y))
+     print "Chuck MoveX_Machine:" & VAL$(delta_x)
+     print "Chuck MoveY_Machine:" & VAL$(delta_y)
+ END IF
+ 
+ !----Step Die to current Pos Ref------!
+ hpib_cmd="map:step_die " &VAL$(curColumn) & "," &VAL$(curRow)
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ !----Step Offset--!
+ !hpib_cmd="move_chuck_xy " & "Relative" & "," &VAL$(delta_x) & "," &VAL$(delta_y)
+ ! Current seems to now be the same as Relative, meaning use current position.
+ hpib_cmd="move_chuck_xy " & "Current" & "," &VAL$(delta_x) & "," &VAL$(delta_y)
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "get_position" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ 
+ GLOBAL_VAR  SubString       ! aux variable when prober answer is cut into sub-strings
+ GLOBAL_VAR  current_x
+ GLOBAL_VAR  current_y
+ GLOBAL_VAR  current_z
+ 
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "get_chuck_xy 0,zero")   !call macro and anticipate its GET_STRING
+ 
+ current_x = VAL$(SENTIOReture3)
+ current_y = VAL$(SENTIOReture4)
+ 
+ IF Debug >= 1 THEN
+     print "Probing current x:"; current_x
+     print "Probing current y:"; current_y
+ END IF
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "get_chuck_z")   !call macro and anticipate its GET_STRING
+ !Reference height of Z Position is : Zero
+ 
+ current_z = VAL$(SENTIOReture3)
+ 
+ print "Probing current z:"; current_z
+ 
+ ! reset the temp. array
+ !DIMENSION_ARRAY("SubString", 0)
+ 
+ IF Debug >= 1 THEN PRINT "act die position (rel.to home) is 
+        x = ";current_x;" | y = ";current_y;" | z = ";current_z
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "unload_all" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ !-- [unload_all]
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  fully_auto_mode !SetupVariable
+ 
+ bRet = 1
+ ErrorMsg = ""
+ 
+ IF  fully_auto_mode == 0 THEN 
+     PRINT ">>> Semi Auto Mode "
+     RETURN_VALUE 1
+ ENDIF
+ 
+ !------------
+ !--Unload wafer to original slot
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:unload_wafer")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "___________________0" "801.001"
+{
+data
+{
+}
+}
+LINK XFORM "do_SENTIO_cmd" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ 
+ GLOBAL_VAR  PBresult         ! returned PBresult from the prober
+ GLOBAL_VAR  hpib_interface   ! Prober Interface, e.g. gpib0
+ GLOBAL_VAR  hpib_addr        ! Prober Address, e.g. 27
+ GLOBAL_VAR  hpib_timeout
+ 
+ GLOBAL_VAR  SENTIOResult     ! SENTIO Response
+ GLOBAL_VAR  SubString           ! SENTIO Response
+ GLOBAL_VAR  SENTIOReture1
+ GLOBAL_VAR  SENTIOReture2
+ GLOBAL_VAR  SENTIOReture3
+ GLOBAL_VAR  SENTIOReture4
+ GLOBAL_VAR  SENTIOReture5
+ GLOBAL_VAR  SENTIOReture6
+ GLOBAL_VAR  SENTIOReture7
+ !--------------------------------------------------
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ SENTIOResult = ""
+ SubString = ""
+ !---start of the program
+ GET_STRING "Enter SENTIO command", SENTIO_command
+ IF Debug >= 1 THEN PRINT "  >sending prober command: ";SENTIO_command;" ..."
+ 
+ 
+ !---communicate with the prober
+ 
+ IF strpos(VAL$(hpib_interface),"::SOCKET") >= 1 THEN
+     ! Connect using VISA API to SEND and RECEIVE a command from the Prober using a VISA TCPIP Socket connection.
+     IF Debug >= 1 THEN
+         print "interface:", hpib_interface
+         print "command:", SENTIO_command
+         print "hpib_addr", hpib_addr
+         print "hpib_timeout", hpib_timeout
+     END IF
+ 
+     ret = evaluate_transform("send_receive_by_VISA_socket", VAL$(hpib_interface), SENTIO_command, 200, hpib_timeout)
+     IF ret[0] == 1 THEN
+         status = 0
+     ELSE
+         status = -1
+     END IF
+     IF Debug >= 1 THEN print "Response status:", status
+ ELSE
+     ! For non VISA Socket connections, connect using HPIB_* functions to SEND and RECEIVE a command from the Prober.
+     hpib_num = HPIB_open(VAL$(hpib_interface))
+     IF VAL$(hpib_num) == VAL$("-1") THEN
+       ! Error failed to open a GPIB interface connection. Return with ready state error. 
+       bRet = 0
+       ErrorMsg = "Failed to open a connection to the GPIB interface: " & VAL$(hpib_interface)
+       RETURN_VALUE bRet
+     END IF
+     
+     IF Debug >= 1 THEN
+         print "interface:", hpib_interface
+         print "command:", SENTIO_command
+         print "hpib_num:", hpib_num
+         print "hpib_addr", hpib_addr
+         print "hpib_timeout", hpib_timeout
+     END IF
+         
+     status   = HPIB_write(hpib_num, hpib_addr, VAL$(SENTIO_command))
+     status   = HPIB_timeout(hpib_num, hpib_timeout)  ! Wait max. 180 sec for reply (we set 100 for proper handshake).
+                                             ! Important Note: the long time-out is also required for long executing prober commands such as 'align', large 'move_index' etc.)
+     
+     status   = HPIB_read(hpib_num, hpib_addr, 200, "A", "SENTIOResult")   ! read the big string into Setup Variable 'SENTIOResult'
+                          ! read all ('A')-ASCII bytes, max. 200 bytes (chars)
+     IF Debug >= 1 THEN print "Response status:", status
+     dummy    = HPIB_close(hpib_num)
+ END IF
+ 
+ result_len = 0
+ 
+ result_len = STRLEN(VAL$(SENTIOResult))
+ 
+ i = 1
+ a = 0
+ COMPLEX index[12]
+ 
+ SENTIOResult = trim$(VAL$(SENTIOResult))
+ 
+ while (i < val(result_len))
+     SubString = substr$(VAL$(SENTIOResult), i, i)
+ 
+     IF STRPOS(VAL$(SubString), ",")==1 THEN 
+         index[a] = i
+         a = a + 1
+     END IF
+ 
+     i = i+1
+ endwhile
+ 
+ IF Debug >= 1 THEN print "Response:", SENTIOResult
+ 
+ if index[0] <> 0 THEN
+     SENTIOReture1 = substr$(VAL$(SENTIOResult),1, val(index[0])-1)
+     IF Debug >= 1 THEN print "SENTIOReture1:",SENTIOReture1
+ END IF
+ 
+ if index[1] <> 0 THEN
+     SENTIOReture2 = substr$(VAL$(SENTIOResult),val(index[0])+1, val(index[1])-1)
+     IF Debug >= 1 THEN print "SENTIOReture2/Command ID:",SENTIOReture2
+ END IF
+ 
+ if index[2] <> 0 THEN
+     SENTIOReture3 = substr$(VAL$(SENTIOResult),val(index[1])+1, val(index[2])-1)
+     IF Debug >= 1 THEN print "SENTIOReture3:",SENTIOReture3
+ END IF
+ 
+ print "index2:", VAL$(index[2])
+ print "substring:", substr$(VAL$(SENTIOResult),val(index[1])+1, result_len)
+ if index[2] == 0 THEN
+     SENTIOReture3 = substr$(VAL$(SENTIOResult),val(index[1])+1, result_len)
+     IF Debug >= 1 THEN print "SENTIOReture3-1:",SENTIOReture3
+ END IF
+ 
+ if index[3] <> 0 THEN
+     SENTIOReture4 = substr$(VAL$(SENTIOResult),val(index[2])+1, val(index[3])-1)
+     IF Debug >= 1 THEN print "SENTIOReture4:",SENTIOReture4
+ END IF
+ 
+ if index[3] == 0 THEN
+     SENTIOReture4 = substr$(VAL$(SENTIOResult),val(index[2])+1, result_len)
+     IF Debug >= 1 THEN print "SENTIOReture4-1:",SENTIOReture4
+ END IF
+ 
+ if index[4] <> 0 THEN
+     SENTIOReture5 = substr$(VAL$(SENTIOResult),val(index[3])+1, val(index[4])-1)
+     IF Debug >= 1 THEN print "SENTIOReture5:",SENTIOReture5
+ END IF
+ 
+ if index[4] == 0 THEN
+     SENTIOReture5 = substr$(VAL$(SENTIOResult),val(index[3])+1, result_len)
+     IF Debug >= 1 THEN print "SENTIOReture5-1:",SENTIOReture5
+ END IF
+ 
+ if index[5] <> 0 THEN
+     SENTIOReture6 = substr$(VAL$(SENTIOResult),val(index[4])+1, val(index[5])-1)
+     IF Debug >= 1 THEN print "SENTIOReture6:",SENTIOReture6
+ END IF
+ 
+ if index[5] == 0 THEN
+     SENTIOReture6 = substr$(VAL$(SENTIOResult),val(index[4])+1, result_len)
+     IF Debug >= 1 THEN print "SENTIOReture6-1:",SENTIOReture6
+ END IF
+ 
+ if index[6] == 0 THEN
+     SENTIOReture7 = substr$(VAL$(SENTIOResult),val(index[5])+1, result_len)
+     IF Debug >= 1 THEN print "SENTIOReture7:",SENTIOReture7
+ END IF
+ !--------------------------------------------
+ 
+ IF SENTIOReture1 == 0 THEN
+     RETURN_VALUE 1   !command performed without errors
+ END IF
+ 
+ IF SENTIOReture1 == 1024 THEN
+ !Last die
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ !    print SENTIOReture3
+     RETURN_VALUE 1   !command performed without errors
+ END IF
+ 
+ IF SENTIOReture1 == 2048 THEN
+ !Last subsite
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ !    print SENTIOReture3
+     RETURN_VALUE 1   !command performed without errors
+ END IF
+ 
+ IF SENTIOReture1 == 1 THEN
+ !Internal Error
+     bRet = 0
+ !    print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ IF SENTIOReture1 == 2 THEN
+ !Execution Error
+     bRet = 0
+ !    print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ IF SENTIOReture1 == 3 THEN
+ !CommandHandlerNotFound
+     bRet = 0
+ !    print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ IF SENTIOReture1 == 4 THEN
+ !InvalidCommand
+     bRet = 0
+ !    print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ IF SENTIOReture1 == 5 THEN
+ !InvalidCommandFormat
+     bRet = 0
+ !   print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ IF SENTIOReture1 == 6 THEN
+ !InvalidParameter
+     bRet = 0
+ !    print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ IF SENTIOReture1 == 7 THEN
+ !InvalidNumberofParameter
+     bRet = 0
+ !    print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ IF SENTIOReture1 == 8 THEN
+ !ArgumentOutofBounds
+     bRet = 0
+ !    print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ IF SENTIOReture1 == 9 THEN
+ !FileNotFound
+     bRet = 0
+ !    print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ IF SENTIOReture1 == 10 THEN
+ !InvalidFileFormat
+     bRet = 0
+ !    print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ IF SENTIOReture1 == 11 THEN
+ !EndofRoute
+     bRet = 0
+ !    print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ IF SENTIOReture1 == 12 THEN
+ !InvalidOperation
+     bRet = 0
+ !    print SENTIOReture3
+     ErrorMsg = "ERROR AT PROBER: "&VAL$(SENTIOReture3)
+ END IF
+ 
+ 
+ RETURN_VALUE bRet
+ 
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "get_axis_orient" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:get_axis_orient")   !call macro and anticipate its GET_STRING
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "light_on" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  current_x
+ GLOBAL_VAR  current_y
+ GLOBAL_VAR  SENTIOReture1
+ GLOBAL_VAR  SENTIOReture2
+ GLOBAL_VAR  SENTIOReture3
+ GLOBAL_VAR  SENTIOReture4
+ GLOBAL_VAR  SENTIOReture5
+ GLOBAL_VAR  SENTIOReture6
+ GLOBAL_VAR  SENTIOReture7
+ 
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ !--- Light ON
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "vis:switch_light Scope,1")   !call macro and anticipate its GET_STRING
+ IF VAL$(SENTIOReture1) >= "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+ 
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "light_off" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  current_x
+ GLOBAL_VAR  current_y
+ GLOBAL_VAR  SENTIOReture1
+ GLOBAL_VAR  SENTIOReture2
+ GLOBAL_VAR  SENTIOReture3
+ GLOBAL_VAR  SENTIOReture4
+ GLOBAL_VAR  SENTIOReture5
+ GLOBAL_VAR  SENTIOReture6
+ GLOBAL_VAR  SENTIOReture7
+ 
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ !--- Light OFF
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "vis:switch_light Scope,0")   !call macro and anticipate its GET_STRING
+ IF VAL$(SENTIOReture1) >= "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+ 
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "next_die" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  current_x
+ GLOBAL_VAR  current_y
+ GLOBAL_VAR  SENTIOReture1
+ GLOBAL_VAR  SENTIOReture2
+ GLOBAL_VAR  SENTIOReture3
+ GLOBAL_VAR  SENTIOReture4
+ GLOBAL_VAR  SENTIOReture5
+ GLOBAL_VAR  SENTIOReture6
+ GLOBAL_VAR  SENTIOReture7
+ 
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ !--- next_die
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:step_next_die")   !call macro and anticipate its GET_STRING
+ IF VAL$(SENTIOReture1) >= "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ current_x = VAL$(SENTIOReture3)
+ current_y = VAL$(SENTIOReture4)
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "next_subsite" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  current_x
+ GLOBAL_VAR  current_y
+ GLOBAL_VAR  Subsite_index
+ GLOBAL_VAR  SENTIOReture1
+ GLOBAL_VAR  SENTIOReture2
+ GLOBAL_VAR  SENTIOReture3
+ GLOBAL_VAR  SENTIOReture4
+ GLOBAL_VAR  SENTIOReture5
+ GLOBAL_VAR  SENTIOReture6
+ GLOBAL_VAR  SENTIOReture7
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ !--- next_die
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:subsite:step_next")   !call macro and anticipate its GET_STRING
+ IF VAL$(SENTIOReture1) >= "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ current_x = VAL$(SENTIOReture3)
+ current_y = VAL$(SENTIOReture4)
+ Subsite_index = VAL$(SENTIOReture5)
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "first_die" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  current_x
+ GLOBAL_VAR  current_y
+ GLOBAL_VAR  SENTIOReture1
+ GLOBAL_VAR  SENTIOReture2
+ GLOBAL_VAR  SENTIOReture3
+ GLOBAL_VAR  SENTIOReture4
+ GLOBAL_VAR  SENTIOReture5
+ GLOBAL_VAR  SENTIOReture6
+ GLOBAL_VAR  SENTIOReture7
+ 
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ !--- First die
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:step_first_die")   !call macro and anticipate its GET_STRING
+ IF VAL$(SENTIOReture1) >= "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_positioner_xy" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program"
+}
+BLKEDIT "Program Body"
+{
+ !-----------------------------------------------------------
+ ! Condition with 'Load next command'
+ ! 1. System has 'Wafer align pattern'
+ ! 2. System has 'Home pattern'
+ !-----------------------------------------------------------
+ 
+ UPDATE_EXPLICIT
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ GLOBAL_VAR  positioner   !SetupVariable
+ GLOBAL_VAR  ref   !SetupVariable
+ GLOBAL_VAR  x_distance   !SetupVariable
+ GLOBAL_VAR  y_distance   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> Testing with Move Positioner "
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ LINPUT "Enter Probe Side to Move (East, West, North, South)", positioner, positioner
+ LINPUT "Enter Reference for Moving (Zero, Relative)", ref, ref
+ LINPUT "Enter Moving Distance X (unit: um)", x_distance, x_distance
+ LINPUT "Enter Moving Distance Y (unit: um)", y_distance, y_distance
+ 
+ x_distance = VAL(VAL$(x_distance))
+ y_distance = VAL(VAL$(y_distance))
+ 
+ hpib_cmd     = "move_positioner_xy "& VAL$(positioner) &","& VAL$(ref) & "," &VAL$(x_distance)& "," &VAL$(y_distance)
+ print "command:"; hpib_cmd
+ 
+ ICCAP_FUNC("do_SENTIO_cmd","Execute",hpib_cmd)
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_positioner_site" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program"
+}
+BLKEDIT "Program Body"
+{
+ !-----------------------------------------------------------
+ ! Condition with 'Load next command'
+ ! 1. System has 'Wafer align pattern'
+ ! 2. System has 'Home pattern'
+ !-----------------------------------------------------------
+ 
+ UPDATE_EXPLICIT
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ GLOBAL_VAR  positioner   !SetupVariable
+ GLOBAL_VAR  site   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> Testing with Move Positioner "
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ LINPUT "Enter Probe Side to Move (East, West, North, South)", positioner, positioner
+ LINPUT "Enter position site", site
+ 
+ site = VAL(VAL$(site))
+ 
+ hpib_cmd     = "step_positioner_site " & VAL$(positioner) & "," &VAL$(site)
+ print "command:"; hpib_cmd
+ 
+ ICCAP_FUNC("do_SENTIO_cmd","Execute",hpib_cmd)
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_positioner_contact" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program"
+}
+BLKEDIT "Program Body"
+{
+ !-----------------------------------------------------------
+ ! Condition with 'Load next command'
+ ! 1. System has 'Wafer align pattern'
+ ! 2. System has 'Home pattern'
+ !-----------------------------------------------------------
+ 
+ UPDATE_EXPLICIT
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ GLOBAL_VAR  positioner   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> Testing with Move Positioner "
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ LINPUT "Enter Probe Side to Move (East, West, North, South)", positioner, positioner
+ 
+ hpib_cmd     = "move_positioner_contact " & VAL$(positioner)
+ print "command:"; hpib_cmd
+ 
+ ICCAP_FUNC("do_SENTIO_cmd","Execute",hpib_cmd)
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_positioner_separation" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program"
+}
+BLKEDIT "Program Body"
+{
+ !-----------------------------------------------------------
+ ! Condition with 'Load next command'
+ ! 1. System has 'Wafer align pattern'
+ ! 2. System has 'Home pattern'
+ !-----------------------------------------------------------
+ 
+ UPDATE_EXPLICIT
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ GLOBAL_VAR  positioner   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> Testing with Move Positioner "
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ LINPUT "Enter Probe Side to Move (East, West, North, South)", positioner, positioner
+ 
+ hpib_cmd     = "move_positioner_separation " & VAL$(positioner)
+ print "command:"; hpib_cmd
+ 
+ ICCAP_FUNC("do_SENTIO_cmd","Execute",hpib_cmd)
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_positioner_z" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program"
+}
+BLKEDIT "Program Body"
+{
+ !-----------------------------------------------------------
+ ! Condition with 'Load next command'
+ ! 1. System has 'Wafer align pattern'
+ ! 2. System has 'Home pattern'
+ !-----------------------------------------------------------
+ 
+ UPDATE_EXPLICIT
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ GLOBAL_VAR  positioner   !SetupVariable
+ GLOBAL_VAR  ref   !SetupVariable
+ GLOBAL_VAR  z_distance   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> Testing with Move Positioner "
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ LINPUT "Enter Probe Side to Move (East, West, North, South)", positioner, positioner
+ LINPUT "Enter Reference for Moving (Zero, Current)", ref, ref
+ LINPUT "Enter Moving Distance Z (unit: um)", z_distance, z_distance
+ 
+ z_distance = VAL(VAL$(z_distance))
+ 
+ hpib_cmd     = "move_positioner_z "& VAL$(positioner) &","& VAL$(ref) & "," &VAL$(z_distance)
+ print "command:"; hpib_cmd
+ 
+ ICCAP_FUNC("do_SENTIO_cmd","Execute",hpib_cmd)
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_positioner_loop_test" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program"
+}
+BLKEDIT "Program Body"
+{
+ !-----------------------------------------------------------
+ ! Condition with 'Load next command'
+ ! 1. System has 'Wafer align pattern'
+ ! 2. System has 'Home pattern'
+ !-----------------------------------------------------------
+ 
+ UPDATE_EXPLICIT
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ GLOBAL_VAR  positioner   !SetupVariable
+ GLOBAL_VAR  site   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> Testing with Move Positioner "
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ LINPUT "Enter Probe Side to Move (East, West, North, South)", positioner, positioner
+ 
+ test_die = 0
+ WHILE test_die < 4
+     print "test_die:", test_die
+ 
+     hpib_cmd     = "step_positioner_site " & VAL$(positioner) & "," &VAL$(test_die)
+     print "command:"; hpib_cmd
+ 
+     ICCAP_FUNC("do_SENTIO_cmd","Execute",hpib_cmd)
+ 
+     IF VAL$(SENTIOReture1) > "0" THEN
+         bRet = 0
+         ErrorMsg = VAL$(SENTIOReture3)
+     ENDIF
+     !iccap_func(".","Measure")
+     REtVal=WAIT(1)
+     test_die = test_die+1
+ END WHILE
+ 
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "switch_module" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  switch_module    !SetupVariable
+ 
+ hpib_cmd="select_module " & VAL$(switch_module)
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "go_to_focus" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ 
+ 
+ hpib_cmd="vis:auto_focus GoTo"
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "set_calibration_drift_ref" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ 
+ hpib_cmd="qal:set_dut_network RefDUT,DriftRef,12,false"
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "start_calibration" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ 
+ 
+ hpib_cmd="qal:calibration_execute"
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ print "Start Calibration Ret", SENTIOReture1
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   print "Start Calibration Fail", SENTIOReture3
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_chuck_site" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ GLOBAL_VAR  chuck_site      
+ 
+ hpib_cmd="move_chuck_site " &VAL$(chuck_site)
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "check_calibration_drift" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ GLOBAL_VAR  calibration_drift_ret
+ 
+ calibration_drift_ret = "Pass"
+ hpib_cmd="qal:calibration_drift_verify"
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ print "calibration_test_ret:", SENTIOReture3
+ IF VAL$(SENTIOReture3) == "Failed" THEN
+     bRet = 0
+     calibration_drift_ret = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_die_seq" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ GLOBAL_VAR  StepDieSeq
+ 
+ bRet = 1
+ ErrorMsg = ""
+ hpib_cmd="map:step_die_seq " &VAL$(StepDieSeq) & ",0"
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   PRINT ">>> Step to die " & VAL$(SENTIOReture1)
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "move_chuck_work_area" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ 
+ GET_STRING "Enter SENTIO command", SENTIO_command
+ hpib_cmd="move_chuck_work_area " & VAL$(SENTIO_command)
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "async_start_calibration" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  command_status      !SetupVariable
+ GLOBAL_VAR  command_id      !SetupVariable
+ GLOBAL_VAR  calibration_timeout      !SetupVariable
+ 
+ hpib_cmd="qal:start_calibration_execute"
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ print "Async Start Calibration Ret", SENTIOReture1
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   print "Start Calibration Fail", SENTIOReture3
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ command_id = SENTIOReture2 
+ print "Command check ID:", SENTIOReture2 
+ REtVal=WAIT(1)
+ 
+ test_cnt = 0
+ WHILE test_cnt < calibration_timeout
+ 
+     ICCAP_FUNC("query_command_status", "Execute", command_id)
+ 
+     print "Command check cnt:", test_cnt 
+ 
+     IF command_status <> 30 THEN 
+         print "Command Finish cnt:", test_cnt
+         RETURN_VALUE bRet
+     ENDIF
+     test_cnt = test_cnt + 1
+     iccap_func("/WaferPro","Wait Sec",1)
+ 
+ 
+ END WHILE
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "query_command_status" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ GLOBAL_VAR  command_status      !SetupVariable
+ 
+ GET_STRING "Enter cmd ID", command_id
+ hpib_cmd="query_command_status " & VAL$(command_id)
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ command_status = SENTIOReture1
+ 
+ RETURN_VALUE SENTIOReture1
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "async_step_die" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  command_status      !SetupVariable
+ GLOBAL_VAR  command_id      !SetupVariable
+ GLOBAL_VAR  stepping_timeout      !SetupVariable
+ 
+ GET_STRING "Enter die x", die_x
+ GET_STRING "Enter die y", die_y
+ 
+ hpib_cmd="map:start_step_die "&VAL$(die_x) & "," &VAL$(die_y)
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   print "Step to die Fail", SENTIOReture3
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ command_id = SENTIOReture2 
+ print "Command check ID:", SENTIOReture2 
+ REtVal=WAIT(1)
+ 
+ test_cnt = 0
+ WHILE test_cnt < stepping_timeout
+ 
+     ICCAP_FUNC("query_command_status", "Execute", command_id)
+ 
+     print "Command check cnt:", test_cnt 
+ 
+     IF command_status <> 30 THEN 
+         print "Command Finish cnt:", test_cnt
+         RETURN_VALUE bRet
+     ENDIF
+     test_cnt = test_cnt + 1
+     iccap_func("/WaferPro","Wait Sec",1)
+ 
+ 
+ END WHILE
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "async_step_die_seq" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  command_status      !SetupVariable
+ GLOBAL_VAR  command_id      !SetupVariable
+ GLOBAL_VAR  stepping_timeout      !SetupVariable
+ GLOBAL_VAR  StepDieSeq
+ 
+ bRet = 1
+ ErrorMsg = ""
+ hpib_cmd="map:start_step_die_seq " &VAL$(StepDieSeq) & ",0"
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   print "Step to die Fail", SENTIOReture3
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ command_id = SENTIOReture2 
+ print "Command check ID:", SENTIOReture2 
+ REtVal=WAIT(1)
+ 
+ test_cnt = 0
+ WHILE test_cnt < stepping_timeout
+ 
+     ICCAP_FUNC("query_command_status", "Execute", command_id)
+ 
+     print "Command check cnt:", test_cnt 
+ 
+     IF command_status <> 30 THEN 
+         print "Command Finish cnt:", test_cnt
+         RETURN_VALUE bRet
+     ENDIF
+     test_cnt = test_cnt + 1
+     iccap_func("/WaferPro","Wait Sec",1)
+ 
+ 
+ END WHILE
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "get_test_die" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ 
+ GLOBAL_VAR  hpib_interface  ! Prober Interface, e.g. gpib0
+ GLOBAL_VAR  hpib_addr       ! Prober Address, e.g. 13
+ GLOBAL_VAR  TotalTestDie     ! Total die under testing
+ 
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "map:get_num_dies Selected")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ TotalTestDie = VAL$(SENTIOReture3)
+ print "Number of die:"; TotalTestDie
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "____Testing____" "801.001"
+{
+data
+{
+}
+}
+LINK XFORM "INIT_PROBER" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ PRINT "> running macro INIT_PROBER..."
+ 
+ GET_STRING "manually,
+ 	load wafer,
+ 	load probe plan,
+ 	define home position,
+ 	align wafer,
+ 	verify the contact,
+ 	switch off the light","ok",dummy
+ 
+ 
+ ICCAP_FUNC("light_on", "Execute")
+ ICCAP_FUNC("go_home", "Execute")
+ ICCAP_FUNC("first_die", "Execute")
+ 
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "STEP_PROBER" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ PRINT "> running macro STEPPING_PROBER..."
+ 
+     ICCAP_FUNC("light_on", "Execute")
+     ICCAP_FUNC("next_die", "Execute")
+     ICCAP_FUNC("contact", "Execute")
+     ICCAP_FUNC("light_off", "Execute")
+     !iccap_func(".","Measure")
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "FINISH_PROBER" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ 
+ ICCAP_FUNC("no_contact", "Execute")
+ ICCAP_FUNC("light_on", "Execute")
+ ICCAP_FUNC("go_home", "Execute")
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "test_Connect_Prober" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ 
+ GLOBAL_VAR  hpib_interface   ! Prober Interface, e.g. gpib0
+ GLOBAL_VAR  hpib_addr        ! Prober Address, e.g. 13
+ GLOBAL_VAR  SENTIOResult     ! SENTIO Response
+ !--------------------------------------------------
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ GET_STRING "hpib interface is actually","gpib0",hpib_interface
+ 
+ GET_STRING "prober address is actually","13",hpib_addr
+ 
+ !---communicate with the prober
+ hpib_num = HPIB_open(VAL$(hpib_interface))
+ IF VAL$(hpib_num) == VAL$("-1") THEN
+   ! Error failed to open a GPIB interface connection. Return with ready state error. 
+   bRet = 0
+   ErrorMsg = "Failed to open a connection to the GPIB interface: " & VAL$(hpib_interface)
+   RETURN_VALUE bRet
+ ENDIF
+ 
+ print hpib_num
+ print hpib_addr
+ 
+ command$=""
+ 
+ WHILE command$<>"exit" 
+   GET_STRING " enter 
+         ON    for Scope Light ON
+         OFF   for Scope Light OFF
+         exit   for exiting this loop",command$
+ 
+   IF command$=="ON" OR command$=="on" THEN 
+     status   = HPIB_write(hpib_num,hpib_addr,"vis:switch_light Scope,1")
+     status   = HPIB_read(hpib_num, hpib_addr, 200, "A", "SENTIOResult")
+     IF VAL$(SENTIOResult)<>"0,0,OK" THEN GET_STRING "ERROR AT PROBER",SENTIOResult,dummy
+   ENDIF
+ 
+   IF command$=="OFF" OR command$=="off" THEN 
+     status   = HPIB_write(hpib_num,hpib_addr,"vis:switch_light Scope,0")
+     status   = HPIB_read(hpib_num, hpib_addr, 200, "A", "SENTIOResult")
+     IF VAL$(SENTIOResult)<>"0,0,OK" THEN GET_STRING "ERROR AT PROBER",SENTIOResult,dummy
+ 
+   ENDIF
+ 
+ END WHILE
+ 
+ 
+ dummy=HPIB_close(hpib_num)
+ 
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "loop_test" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ PRINT "> running macro STEPPING_PROBER..."
+ 
+ GLOBAL_VAR  SENTIOReture1
+ GLOBAL_VAR  SENTIOReture2
+ GLOBAL_VAR  SENTIOReture3
+ GLOBAL_VAR  SENTIOReture4
+ GLOBAL_VAR  SENTIOReture5
+ GLOBAL_VAR  SENTIOReture6
+ GLOBAL_VAR  SENTIOReture7
+ 
+ !! Test 5 dies
+ !ICCAP_FUNC("go_home", "Execute")
+ !ICCAP_FUNC("first_die", "Execute")
+ 
+ !test_die =1
+ !WHILE test_die < 50
+ !    print "test_die:", test_die
+ !    ICCAP_FUNC("light_on", "Execute")
+ !    ICCAP_FUNC("next_die", "Execute")
+ !    ICCAP_FUNC("light_off", "Execute")
+     !iccap_func(".","Measure")
+ !    REtVal=WAIT(2)
+ !    test_die = test_die+1
+ !END WHILE
+ !ICCAP_FUNC("light_on", "Execute")
+ !SENTIOReture1 = 0
+ !print "Start Calibration"
+ !ICCAP_FUNC("start_calibration", "Execute")
+ 
+ !IF VAL$(bRet) == "0" THEN
+ !    ErrorMsg = VAL$(SENTIOReture3)
+ !    print "RF Calibration fail: ", ErrorMsg
+ !    RETURN_VALUE bRet
+ !ENDIF
+ 
+ !print "Go To Focus"
+ !ICCAP_FUNC("go_to_focus", "Execute")
+ !IF VAL$(bRet) == "0" THEN
+ !    ErrorMsg = VAL$(SENTIOReture3)
+ !    print "Go To Focus: ", ErrorMsg
+ !    RETURN_VALUE bRet
+ !ENDIF
+ 
+ GLOBAL_VAR  bRet             !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  TotalTestDie     ! Total die under testing
+ GLOBAL_VAR  StepDieSeq
+ GLOBAL_VAR  NumberCheckingCalDrift
+ GLOBAL_VAR  chuck_site  
+ GLOBAL_VAR  calibration_drift_ret
+ GLOBAL_VAR  switch_module
+ 
+ chuck_site = "Wafer"
+ ICCAP_FUNC("move_chuck_site", "Execute")
+ ICCAP_FUNC("go_home", "Execute")
+ 
+ ICCAP_FUNC("get_test_die", "Execute")
+ StepDieSeq = 0
+ contact_cnt = 0
+ 
+ WHILE StepDieSeq < TotalTestDie
+     print "test_die seq:", StepDieSeq
+     ICCAP_FUNC("move_die_seq", "Execute")
+ 
+     print "Ret:", bRet
+     IF VAL$(bRet) == "0" THEN
+       ErrorMsg = VAL$(SENTIOReture3)
+       print "Stepping fail: ", ErrorMsg
+       RETURN_VALUE bRet
+     ENDIF
+ 
+     print "Move Contact"
+     ICCAP_FUNC("contact", "Execute")
+ 
+     IF VAL$(bRet) == "0" THEN
+       ErrorMsg = VAL$(SENTIOReture3)
+       print "Move Contact fail: ", ErrorMsg
+       RETURN_VALUE bRet
+     ENDIF
+ 
+     REtVal=WAIT(5)
+ 
+     print "Go To Focus"
+     ICCAP_FUNC("go_to_focus", "Execute")
+     IF VAL$(bRet) == "0" THEN
+         ErrorMsg = VAL$(SENTIOReture3)
+         print "Go To Focus: ", ErrorMsg
+         RETURN_VALUE bRet
+     ENDIF
+ 
+     contact_cnt = contact_cnt + 1
+     IF VAL$(contact_cnt) >= VAL$(NumberCheckingCalDrift) THEN
+         contact_cnt = 0
+ !        ICCAP_FUNC("check_calibration_drift", "Execute")
+         print "calibration checking restult:", bRet
+         print "calibration checking restult:", bRet
+         print "calibration checking restult:", bRet
+  
+     ENDIF
+     
+     StepDieSeq = StepDieSeq + 1
+ END WHILE
+ 
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "RF_probes_workflow" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ PRINT "> running macro STEPPING_PROBER..."
+ 
+ GLOBAL_VAR  bRet             !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  TotalTestDie     ! Total die under testing
+ GLOBAL_VAR  StepDieSeq
+ GLOBAL_VAR  NumberCheckingCalDrift
+ GLOBAL_VAR  chuck_site  
+ GLOBAL_VAR  calibration_drift_ret
+ GLOBAL_VAR  switch_module
+ 
+ chuck_site = "Wafer"
+ ICCAP_FUNC("move_chuck_site", "Execute")
+ ICCAP_FUNC("go_home", "Execute")
+ 
+ ICCAP_FUNC("get_test_die", "Execute")
+ StepDieSeq = 0
+ contact_cnt = 0
+ 
+ WHILE StepDieSeq < TotalTestDie
+     print "test_die seq:", StepDieSeq
+     ICCAP_FUNC("move_die_seq", "Execute")
+ 
+     print "Ret:", bRet
+     IF VAL$(bRet) == "0" THEN
+       ErrorMsg = VAL$(SENTIOReture3)
+       print "Stepping fail: ", ErrorMsg
+       RETURN_VALUE bRet
+     ENDIF
+ 
+     print "Move Contact"
+     ICCAP_FUNC("contact", "Execute")
+ 
+     IF VAL$(bRet) == "0" THEN
+       ErrorMsg = VAL$(SENTIOReture3)
+       print "Move Contact fail: ", ErrorMsg
+       RETURN_VALUE bRet
+     ENDIF
+ 
+     REtVal=WAIT(5)
+ 
+     print "Go To Focus"
+     ICCAP_FUNC("go_to_focus", "Execute")
+     IF VAL$(bRet) == "0" THEN
+         ErrorMsg = VAL$(SENTIOReture3)
+         print "Go To Focus: ", ErrorMsg
+         RETURN_VALUE bRet
+     ENDIF
+ 
+     contact_cnt = contact_cnt + 1
+     IF VAL$(contact_cnt) >= VAL$(NumberCheckingCalDrift) THEN
+         contact_cnt = 0
+         ICCAP_FUNC("check_calibration_drift", "Execute")
+         print "calibration checking restult:", bRet
+ 
+         switch_module = "Vision"
+         ICCAP_FUNC("switch_module", "Execute")
+ 
+         !---Result Failed---
+         IF VAL$(calibration_drift_ret) == "Failed" THEN
+ 
+             print "Execute Cleaning"
+             ICCAP_FUNC("needle_cleaning", "Execute")
+             IF VAL$(bRet) == "0" THEN
+                 ErrorMsg = VAL$(SENTIOReture3)
+                 print "Clean pad fail: ", ErrorMsg
+                 RETURN_VALUE bRet
+             ENDIF
+ 
+             print "Move Site"
+             chuck_site = "AuxLeft"
+             ICCAP_FUNC("move_chuck_site", "Execute")
+             IF VAL$(bRet) == "0" THEN
+                 ErrorMsg = VAL$(SENTIOReture3)
+                 print "Move site fail: ", ErrorMsg
+                 RETURN_VALUE bRet
+             ENDIF
+ 
+             print "Start Calibration"
+             ICCAP_FUNC("start_calibration", "Execute")
+             IF VAL$(bRet) == "0" THEN
+                 ErrorMsg = VAL$(SENTIOReture3)
+                 print "RF Calibration fail: ", ErrorMsg
+                 RETURN_VALUE bRet
+             ENDIF
+ 
+             print "Go To Focus"
+             ICCAP_FUNC("go_to_focus", "Execute")
+             IF VAL$(bRet) == "0" THEN
+                 ErrorMsg = VAL$(SENTIOReture3)
+                 print "Go To Focus: ", ErrorMsg
+                 RETURN_VALUE bRet
+             ENDIF
+ 
+         ENDIF
+ 
+     ENDIF
+     
+     StepDieSeq = StepDieSeq + 1
+     print "Current StepDieSeq", StepDieSeq
+ END WHILE
+ 
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "load_wafer_and_stepping" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ PRINT "> running macro STEPPING_PROBER..."
+ 
+ GLOBAL_VAR  SENTIOReture1
+ GLOBAL_VAR  SENTIOReture2
+ GLOBAL_VAR  SENTIOReture3
+ GLOBAL_VAR  SENTIOReture4
+ GLOBAL_VAR  SENTIOReture5
+ GLOBAL_VAR  SENTIOReture6
+ GLOBAL_VAR  SENTIOReture7
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  chuck_site
+ GLOBAL_VAR  StepDieSeq
+ GLOBAL_VAR  switch_module
+ GLOBAL_VAR  TotalTestDie     ! Total die under testing
+ GLOBAL_VAR  NumberCheckingCalDrift
+ GLOBAL_VAR  chuck_site  
+ GLOBAL_VAR  calibration_drift_ret
+ 
+ ICCAP_FUNC("load_next","Execute", "23")
+     IF VAL$(bRet) == "0" THEN
+       ErrorMsg = VAL$(SENTIOReture3)
+       print "Load wafer fail: ", ErrorMsg
+       RETURN_VALUE bRet
+     ENDIF
+ 
+ chuck_site = "Wafer"
+ ICCAP_FUNC("move_chuck_site", "Execute")
+ ICCAP_FUNC("go_home", "Execute")
+ 
+ ICCAP_FUNC("get_test_die", "Execute")
+ StepDieSeq = 0
+ contact_cnt = 0
+ 
+ WHILE StepDieSeq < TotalTestDie
+     print "test_die seq:", StepDieSeq
+     ICCAP_FUNC("move_die_seq", "Execute")
+ 
+     print "Ret:", bRet
+     IF VAL$(bRet) == "0" THEN
+       ErrorMsg = VAL$(SENTIOReture3)
+       print "Stepping fail: ", ErrorMsg
+       RETURN_VALUE bRet
+     ENDIF
+ 
+     print "Move Contact"
+     ICCAP_FUNC("contact", "Execute")
+ 
+     IF VAL$(bRet) == "0" THEN
+       ErrorMsg = VAL$(SENTIOReture3)
+       print "Move Contact fail: ", ErrorMsg
+       RETURN_VALUE bRet
+     ENDIF
+ 
+     REtVal=WAIT(5)
+ 
+     contact_cnt = contact_cnt + 1
+     IF VAL$(contact_cnt) == VAL$(NumberCheckingCalDrift) THEN
+         contact_cnt = 0
+         ICCAP_FUNC("check_calibration_drift", "Execute")
+         print "calibration checking restult:", bRet
+ 
+         switch_module = "Vision"
+         ICCAP_FUNC("switch_module", "Execute")
+ 
+         !---Result Failed---
+         IF VAL$(calibration_drift_ret) == "Failed" THEN
+ 
+             print "Execute Cleaning"
+             ICCAP_FUNC("needle_cleaning", "Execute")
+             IF VAL$(bRet) == "0" THEN
+                 ErrorMsg = VAL$(SENTIOReture3)
+                 print "Clean pad fail: ", ErrorMsg
+                 RETURN_VALUE bRet
+             ENDIF
+ 
+             print "Move Site"
+             chuck_site = "AuxLeft"
+             ICCAP_FUNC("move_chuck_site", "Execute")
+             IF VAL$(bRet) == "0" THEN
+                 ErrorMsg = VAL$(SENTIOReture3)
+                 print "Move site fail: ", ErrorMsg
+                 RETURN_VALUE bRet
+             ENDIF
+ 
+             print "Start Calibration"
+             ICCAP_FUNC("start_calibration", "Execute")
+             IF VAL$(bRet) == "0" THEN
+                 ErrorMsg = VAL$(SENTIOReture3)
+                 print "RF Calibration fail: ", ErrorMsg
+                 RETURN_VALUE bRet
+             ENDIF
+ 
+             print "Go To Focus"
+             ICCAP_FUNC("go_to_focus", "Execute")
+             IF VAL$(bRet) == "0" THEN
+                 ErrorMsg = VAL$(SENTIOReture3)
+                 print "Go To Focus: ", ErrorMsg
+                 RETURN_VALUE bRet
+             ENDIF
+ 
+         ENDIF
+ 
+     ENDIF
+     
+     StepDieSeq = StepDieSeq + 1
+ END WHILE
+ 
+ ICCAP_FUNC("unload_all","Execute")
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "test_async_cmd" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture2   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  SENTIOReture4   !SetupVariable
+ GLOBAL_VAR  SENTIOReture5   !SetupVariable
+ 
+ GLOBAL_VAR  command_status      !SetupVariable
+ GLOBAL_VAR  command_id      !SetupVariable
+ GLOBAL_VAR  calibration_timeout      !SetupVariable
+ GLOBAL_VAR  StepDieSeq      !SetupVariable
+ GLOBAL_VAR  chuck_site    
+ 
+ StepDieSeq = 22
+ print "test_die seq:", StepDieSeq
+ ICCAP_FUNC("move_die_seq", "Execute")
+ 
+ chuck_site = "AuxLeft2"
+ ICCAP_FUNC("move_chuck_site", "Execute")
+ 
+ ICCAP_FUNC("async_start_calibration", "Execute")
+ command_id = SENTIOReture2 
+ print "Command check ID:", SENTIOReture2 
+ REtVal=WAIT(1)
+ 
+ StepDieSeq = 23
+ print "test_die seq:", StepDieSeq
+ ICCAP_FUNC("move_die_seq", "Execute")
+ 
+ chuck_site = "AuxLeft2"
+ ICCAP_FUNC("move_chuck_site", "Execute")
+ 
+ ICCAP_FUNC("async_start_calibration", "Execute")
+ command_id = SENTIOReture2 
+ print "Command check ID:", SENTIOReture2 
+ REtVal=WAIT(1)
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "RF_workflow" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ PRINT "> running macro STEPPING_PROBER..."
+ 
+ GLOBAL_VAR  bRet             !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  TotalTestDie     ! Total die under testing
+ GLOBAL_VAR  StepDieSeq
+ GLOBAL_VAR  NumberCheckingCalDrift
+ GLOBAL_VAR  chuck_site  
+ GLOBAL_VAR  calibration_drift_ret
+ GLOBAL_VAR  switch_module
+ 
+ chuck_site = "Wafer"
+ ICCAP_FUNC("move_chuck_site", "Execute")
+ ICCAP_FUNC("go_home", "Execute")
+ 
+ ICCAP_FUNC("get_test_die", "Execute")
+ StepDieSeq = 0
+ contact_cnt = 0
+ 
+ WHILE StepDieSeq < TotalTestDie
+     print "test_die seq:", StepDieSeq
+     ICCAP_FUNC("async_step_die_seq", "Execute")
+ 
+     print "Ret:", bRet
+     IF VAL$(bRet) == "0" THEN
+       ErrorMsg = VAL$(SENTIOReture3)
+       print "Stepping fail: ", ErrorMsg
+       RETURN_VALUE bRet
+     ENDIF
+ 
+     print "Move Contact"
+     ICCAP_FUNC("contact", "Execute")
+ 
+     IF VAL$(bRet) == "0" THEN
+       ErrorMsg = VAL$(SENTIOReture3)
+       print "Move Contact fail: ", ErrorMsg
+       RETURN_VALUE bRet
+     ENDIF
+ 
+     print "Go To Focus"
+     ICCAP_FUNC("go_to_focus", "Execute")
+     IF VAL$(bRet) == "0" THEN
+         ErrorMsg = VAL$(SENTIOReture3)
+         print "Go To Focus: ", ErrorMsg
+         RETURN_VALUE bRet
+     ENDIF
+ 
+     REtVal=WAIT(5)
+ 
+     contact_cnt = contact_cnt + 1
+     print "contact_cnt:", contact_cnt
+     print "NumberCheckingCalDrift:", NumberCheckingCalDrift
+     IF VAL$(contact_cnt) == VAL$(NumberCheckingCalDrift) THEN
+         contact_cnt = 0
+         ICCAP_FUNC("check_calibration_drift", "Execute")
+         print "calibration checking restult:", bRet
+ 
+         switch_module = "Vision"
+         ICCAP_FUNC("switch_module", "Execute")
+ 
+         !---Result Failed---
+         IF VAL$(calibration_drift_ret) == "Failed" THEN
+ 
+             !print "Execute Cleaning"
+             !ICCAP_FUNC("needle_cleaning", "Execute")
+             !IF VAL$(bRet) == "0" THEN
+             !    ErrorMsg = VAL$(SENTIOReture3)
+             !    print "Clean pad fail: ", ErrorMsg
+             !    RETURN_VALUE bRet
+             !ENDIF
+ 
+             print "Move Site"
+             chuck_site = "AuxLeft"
+             ICCAP_FUNC("move_chuck_site", "Execute")
+             IF VAL$(bRet) == "0" THEN
+                 ErrorMsg = VAL$(SENTIOReture3)
+                 print "Move site fail: ", ErrorMsg
+                 RETURN_VALUE bRet
+             ENDIF
+ 
+             print "Start Calibration"
+             ICCAP_FUNC("async_start_calibration", "Execute")
+ 
+             print "Go To Focus"
+             ICCAP_FUNC("go_to_focus", "Execute")
+             IF VAL$(bRet) == "0" THEN
+                 ErrorMsg = VAL$(SENTIOReture3)
+                 print "Go To Focus: ", ErrorMsg
+                 RETURN_VALUE bRet
+             ENDIF
+ 
+         ENDIF
+ 
+     ENDIF
+     
+     StepDieSeq = StepDieSeq + 1
+     print "Current StepDieSeq", StepDieSeq
+ END WHILE
+ 
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "stepping_test" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ PRINT "> running macro STEPPING_PROBER..."
+ 
+ GLOBAL_VAR  bRet             !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  TotalTestDie     ! Total die under testing
+ GLOBAL_VAR  StepDieSeq
+ GLOBAL_VAR  NumberCheckingCalDrift
+ GLOBAL_VAR  chuck_site  
+ GLOBAL_VAR  calibration_drift_ret
+ GLOBAL_VAR  switch_module
+ 
+ chuck_site = "Wafer"
+ ICCAP_FUNC("move_chuck_site", "Execute")
+ ICCAP_FUNC("go_home", "Execute")
+ 
+ ICCAP_FUNC("get_test_die", "Execute")
+ StepDieSeq = 0
+ contact_cnt = 0
+ 
+ WHILE StepDieSeq < TotalTestDie
+     print "test_die seq:", StepDieSeq
+     ICCAP_FUNC("move_die_seq", "Execute")
+ 
+     print "Ret:", bRet
+     IF VAL$(bRet) == "0" THEN
+       ErrorMsg = VAL$(SENTIOReture3)
+       print "Stepping fail: ", ErrorMsg
+       RETURN_VALUE bRet
+     ENDIF
+ 
+     print "Move Contact"
+     ICCAP_FUNC("contact", "Execute")
+ 
+     IF VAL$(bRet) == "0" THEN
+       ErrorMsg = VAL$(SENTIOReture3)
+       print "Move Contact fail: ", ErrorMsg
+       RETURN_VALUE bRet
+     ENDIF
+ 
+     print "Go To Focus"
+     ICCAP_FUNC("go_to_focus", "Execute")
+     IF VAL$(bRet) == "0" THEN
+         ErrorMsg = VAL$(SENTIOReture3)
+         print "Go To Focus: ", ErrorMsg
+         RETURN_VALUE bRet
+     ENDIF
+ 
+     REtVal=WAIT(5)
+ 
+     
+     StepDieSeq = StepDieSeq + 1
+     print "Current StepDieSeq", StepDieSeq
+ END WHILE
+ 
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "___________________1" "801.001"
+{
+data
+{
+}
+}
+LINK XFORM "loader_check_station" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  SENTIOReture1   !SetupVariable
+ GLOBAL_VAR  SENTIOReture3   !SetupVariable
+ GLOBAL_VAR  has_wafer_wallet !SetupVariable
+ GLOBAL_VAR  has_cassette1    !SetupVariable
+ GLOBAL_VAR  has_cassette2    !SetupVariable
+ 
+ has_wafer_wallet = 0
+ has_cassette1 = 0
+ has_cassette2 = 0
+ 
+ hpib_cmd="loader:has_station ww"
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ IF VAL$(SENTIOReture3) > "0" THEN
+      has_wafer_wallet = 1
+ ENDIF
+ 
+ hpib_cmd="loader:has_station cas1"
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ IF VAL$(SENTIOReture3) > "0" THEN
+     has_cassette1 = 1
+ ENDIF
+ 
+ hpib_cmd="loader:has_station cas2"
+ 
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", VAL$(hpib_cmd))   !call macro and anticipate its GET_STRING
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ IF VAL$(SENTIOReture3) > "0" THEN
+     has_cassette2 = 1
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "test_station_status" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  has_wafer_wallet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  has_cassette1            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  has_cassette2            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ 
+ ICCAP_FUNC("loader_check_station", "Execute", 'cas2')  
+ print "ww:", has_wafer_wallet
+ print "cas1:", has_cassette1
+ print "cas2:", has_cassette2
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "set_chuck_temperature" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug           !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode            !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet            !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg        !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  set_chuck_temperature   !SetupVariable
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ SENTIOReture1 = ""
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ IF Debug >= 2 THEN GET_STRING "Performing SENTIO/start   [OK]", dummy
+ 
+ LINPUT "Set chuck temperature (degree)", set_chuck_temperature, set_chuck_temperature
+ 
+ set_chuck_temperature = VAL(VAL$(set_chuck_temperature))
+ 
+ hpib_cmd     = "status:set_chuck_temp "& VAL$(set_chuck_temperature)
+ print "command:"; hpib_cmd
+ 
+ ICCAP_FUNC("do_SENTIO_cmd","Execute",hpib_cmd)
+ 
+ IF VAL$(SENTIOReture1) > "0" THEN
+   bRet = 0
+   ErrorMsg = VAL$(SENTIOReture3)
+ ENDIF
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+LINK XFORM "___________________2" "801.001"
+{
+data
+{
+}
+}
+LINK XFORM "send_receive_by_VISA_socket" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "PythonLocal"
+}
+BLKEDIT "Program Body"
+{
+ # update: explicit
+ 
+ # ------------------------------------------------------------
+ # Function: send_receive_by_VISA_socket
+ # Brief: This function will send a VISA Socket Connection a query string and expect back a result.
+ # This function is written to support VISA TCPIP*::*::*::SOCKET Resource types.
+ # Note: Error messages are printed to the status output window.
+ # Returns: 1 for success (no errors), 0 for failure (errors occurred).
+ # ------------------------------------------------------------
+ 
+ import pyvisa as visa
+ from iccap import *
+ from iccap import icfuncs as f
+ from iccap import iccap_func
+ import re
+ #=============================================================
+ # Get the input arguments for this function.
+ NEWLINE = "\n"
+  
+ LanConnectionPath = f.get_string("Enter connection")
+ LanConnectionPath = LanConnectionPath.strip()
+ # Get the content of dummy(...)
+ if re.search(r'\(.+\)', LanConnectionPath):
+     matches = re.search(r'(?<=\().*?(?=\))', LanConnectionPath)
+     LanConnectionPath = matches.group()
+     #print("'%s'" % (LanConnectionPath))
+     #LanConnectionPath = "TCPIP0::xx.xx.xx.xx::5025::SOCKET"
+  
+ writeCmd = f.get_string("Enter command")
+ writeCmd = writeCmd.strip()
+ writeCmd = writeCmd + NEWLINE
+ #writeCmd = "*IDN?" + NEWLINE
+  
+ nbChar = f.get_int("Enter number of bytes buffer size for receiving")
+ if nbChar < 1:
+     nbChar = 255
+ 
+ timeout_seconds = f.get_int("Enter timeout in seconds to use during VISA instrument I/O operations")
+ timeout_milliseconds = int(timeout_seconds * 1000)
+ if  timeout_milliseconds < 100:
+     timeout_milliseconds = 100
+ 
+ #=============================================================
+ retVal = 1
+ 
+ set_var("./globalRmSessId", "0")
+ # Open default VISA resource manager for instrument connections.
+ xStatusVal = f.icviOpenDefaultRM("./globalRmSessId")
+ xGlobalRmSessValId = int(get_var("./globalRmSessId")) # Get variable globalSessId numeric value.
+ set_var("./xStatusDesc", "")
+ xDescStatusVal = f.icviStatusDesc(xGlobalRmSessValId, xStatusVal, "./xStatusDesc")
+ if (xStatusVal >= visa.constants.VI_SUCCESS):
+     set_var("./instrSessnId", "") 
+     # Connect to instrument.
+     xStatusVal = f.icviOpen(xGlobalRmSessValId, visa.constants.VI_NULL, visa.constants.VI_NULL, LanConnectionPath, "./instrSessnId")
+     xInstrSessValId = int(get_var("./instrSessnId")) # Get variable instrSessnId numeric value.
+     set_var("./xStatusDesc", "")
+     xDescStatusVal = f.icviStatusDesc(xGlobalRmSessValId, xStatusVal, "./xStatusDesc")
+     if (xStatusVal >= visa.constants.VI_SUCCESS):
+          # Set I/O timeout for instrument I/O operations in milliseconds.
+         xStatusVal = f.icviSetAttribute(xInstrSessValId, visa.constants.VI_ATTR_TMO_VALUE, timeout_milliseconds)
+         set_var("./xStatusDesc", "")
+         xDescStatusVal = f.icviStatusDesc(xInstrSessValId, xStatusVal, "./xStatusDesc")
+         if (xStatusVal < visa.constants.VI_SUCCESS):
+             # Error occurred setting attribute.
+             ErrorMsg = "viSetAttribute not successful. Could not set timeout attribute."
+             xStatusDesc = get_var("./xStatusDesc")
+             print(("Error: statusVal(%d), statusDesc(%s), error: %s" % (xStatusVal, xStatusDesc, ErrorMsg)))
+             retVal = 0
+         else:
+             # When working with TCPIP sockets, it appears its important for read commands to have the TERMCHAR turned on.
+             xStatusVal = f.icviSetAttribute(xInstrSessValId, visa.constants.VI_ATTR_TERMCHAR_EN, visa.constants.VI_TRUE)
+             set_var("./xStatusDesc", "")
+             xDescStatusVal = f.icviStatusDesc(xInstrSessValId, xStatusVal, "./xStatusDesc")
+             if (xStatusVal < visa.constants.VI_SUCCESS):
+                 # Error occurred setting attribute.
+                 ErrorMsg = "viSetAttribute not successful. Could not set term character on."
+                 xStatusDesc = get_var("./xStatusDesc")
+                 print(("Error: statusVal(%d), statusDesc(%s), error: %s" % (xStatusVal, xStatusDesc, ErrorMsg)))
+                 retVal = 0
+             else:
+                 # Write command string to instrument.
+                 writeCnt = len(writeCmd)
+                 set_var("./xRetCnt", "")
+                 xStatusVal = f.icviWrite(xInstrSessValId, writeCnt, writeCmd, "./xRetCnt")
+                 set_var("./xStatusDesc", "")
+                 xDescStatusVal = f.icviStatusDesc(xInstrSessValId, xStatusVal, "./xStatusDesc")
+                 if (xStatusVal >= visa.constants.VI_SUCCESS): 
+                     # Write command successful now let's read the response.         
+      
+                     iccap_func("/WaferPro", "Wait Sec", "0.5")
+              
+                     # Read back from instrument result string.
+                     set_var("./SENTIOResult", "")
+                     set_var("./xRetCnt", "")
+                     xStatusVal = f.icviRead(xInstrSessValId, nbChar, "./SENTIOResult", "./xRetCnt")
+                     set_var("./xStatusDesc", "")
+                     xDescStatusVal = f.icviStatusDesc(xInstrSessValId, xStatusVal, "./xStatusDesc")
+                     if (xStatusVal < visa.constants.VI_SUCCESS):
+                         ErrorMsg = "viRead not successful. Error occurred."
+                         xStatusDesc = get_var("./xStatusDesc")
+                         print(("Error: statusVal(%d), statusDesc(%s), error: %s" % (xStatusVal, xStatusDesc, ErrorMsg)))
+                         retVal = 0
+                 else:
+                     # Error writing to the instrument occurred.
+                     ErrorMsg = "viWrite not successful. Error occurred."
+                     xStatusDesc = get_var("./xStatusDesc")
+                     print(("Error: statusVal(%d), statusDesc(%s), error: %s" % (xStatusVal, xStatusDesc, ErrorMsg)))
+                     retVal = 0
+ 
+         # Close instrument connection session.
+         xStatusVal = f.icviClose(xInstrSessValId)
+     else:
+         # Error occurred opening the VISA Session to the Connection.
+         ErrorMsg = "viOpen not successful. Could not open the connection."
+         xStatusDesc = get_var("./xStatusDesc")
+         print(("Error: statusVal(%d), statusDesc(%s), error: %s" % (xStatusVal, xStatusDesc, ErrorMsg)))
+         retVal = 0
+ 
+     # Close default resource manager session.
+     xStatusVal = f.icviClose(xGlobalRmSessValId)
+ else:
+     # Error occurred opening the VISA Default Resource Manager.
+     ErrorMsg = "viOpenDefaultRM not successful. Could not open the default VISA Resource Manager."
+     xStatusDesc = get_var("./xStatusDesc")
+     print(("Error: statusVal(%d), statusDesc(%s), error: %s" % (xStatusVal, xStatusDesc, ErrorMsg)))
+     retVal = 0
+  
+ set_return_value(retVal) # 1: success
+}
+dataset
+{
+datasize MEAS 1 1 1
+type MEAS
+}
+}
+}
+LINK XFORM "check_enable_loader" "801.001"
+{
+data
+{
+HYPTABLE "Link Transform"
+{
+element "Function" "Program2"
+}
+BLKEDIT "Program Body"
+{
+ UPDATE_EXPLICIT
+ 
+ GLOBAL_VAR  Debug             !ModelVariable, WaferPro Debug Level
+ GLOBAL_VAR  Mode              !ModelVariable, WaferPro Test Plan Mode
+ GLOBAL_VAR  bRet              !Setup/ModelVariable, WaferPro Success(=1)/Nonsuccess(=0) Flag
+ GLOBAL_VAR  ErrorMsg          !Setup/ModelVariable, Error Message sent to WaferPro when Nonsuccess
+ GLOBAL_VAR  fully_auto_mode         !SetupVariable
+ GLOBAL_VAR  SENTIOReture1
+ GLOBAL_VAR  SENTIOReture2
+ GLOBAL_VAR  SENTIOReture3
+ 
+ IF Debug >= 1 THEN PRINT ">>> exec. Xfm '" & whoami() & "' ..."
+ 
+ bRet = 1
+ ErrorMsg = ""
+ !------------
+ 
+ ! -- Checking system has station WW/Cassette1/Cassette2
+ ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:has_station ww")
+ 
+ IF VAL$(SENTIOReture3) == "1" THEN
+     IF Debug >= 1 THEN PRINT ">>> System has wafer wellect "
+     fully_auto_mode = 1
+ ELSE
+     ICCAP_FUNC("do_SENTIO_cmd", "Execute", "loader:has_station cas1")
+     IF VAL$(SENTIOReture3) == "1" THEN
+         IF Debug >= 1 THEN PRINT ">>> System has cassette station 1"
+             fully_auto_mode = 1
+     ELSE
+         fully_auto_mode = 0
+     ENDIF
+ ENDIF
+ 
+ print "System type of loader (1) Fully-auto, (0) Semi-auto:", fully_auto_mode
+ 
+ RETURN_VALUE bRet
+}
+dataset
+{
+datasize COMMON 1 1 1
+type COMMON
+}
+}
+}
+data "801.001"
+{
+}
+}
