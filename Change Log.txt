@@ -1,3 +1,9 @@
+//--2026-02-25--//
+update driver for the WaferPro
+1. add loader driver
+2. add thermal chuck driver
+3. add positioner driver
+
 //--2024-06-18--//
 add new driver for IC-CAP
 1. add loader driver
